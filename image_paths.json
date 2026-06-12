@@ -1875,6 +1875,22 @@
     "path": "arka-zoo-plus-473-ml.webp",
     "sheet": "variable"
   },
+  "bi-colour-blood-moon-torch-1-glava": {
+    "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "bi-colour-blood-moon-torch-2-glave": {
+    "path": "1/bi-colour-blood-moon-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "bicolor-branching-hammer-2-glave": {
+    "path": "1/bicolor-branching-hammer-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "bicolor-branching-hammer-4-glave": {
+    "path": "1/bicolor-branching-hammer-4-glave.webp",
+    "sheet": "livestock_variable"
+  },
   "blue-treasure-aquaculture-salt-25kg": {
     "path": "blue-treasure-aquaculture-salt-25kg.webp",
     "sheet": "simple"
@@ -1887,6 +1903,10 @@
     "path": "blue-treasure-aquarium-reef-salt-6-7-kg.webp",
     "sheet": "variable"
   },
+  "candy-cane-blue-1-glava": {
+    "path": "1/candy-cane-blue-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
   "candy-cane-blue-2-glave": {
     "path": "1/candy-cane-blue-2-glave.webp",
     "sheet": "livestock_variable"
@@ -1895,20 +1915,28 @@
     "path": "1/candy-cane-blue-3-glave.webp",
     "sheet": "livestock_variable"
   },
-  "cotton-candy-torch-koral-1-glava": {
-    "path": "cotton-candy-torch-koral-1-glava.webp",
+  "candy-cane-neon-green-2-glave": {
+    "path": "1/candy-cane-neon-green-2-glave.webp",
     "sheet": "livestock_variable"
   },
-  "cotton-candy-torch-koral-2-glave": {
-    "path": "cotton-candy-torch-koral-2-glave.webp",
+  "candy-cane-neon-green-3-glave": {
+    "path": "1/candy-cane-neon-green-3-glave.webp",
     "sheet": "livestock_variable"
   },
-  "dragon-s-soul-torch-koral-1-glava": {
-    "path": "dragon-s-soul-torch-koral-1-glava.webp",
+  "cotton-candy-torch-1-glava": {
+    "path": "1/cotton-candy-torch-1-glava.webp",
     "sheet": "livestock_variable"
   },
-  "dragon-s-soul-torch-koral-2-glave": {
-    "path": "dragon-s-soul-torch-koral-2-glave.webp",
+  "cotton-candy-torch-2-glave": {
+    "path": "1/cotton-candy-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "dragon-s-soul-torch-1-glava": {
+    "path": "1/dragon-s-soul-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "dragon-s-soul-torch-2-glave": {
+    "path": "1/dragon-s-soul-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
   "ecotech-hanging-kit-for-radion": {
@@ -2003,24 +2031,36 @@
     "path": "flipper-flip-std.webp",
     "sheet": "variable"
   },
-  "golden-nugget-koral-1-glava": {
-    "path": "golden-nugget-koral-1-glava.webp",
+  "gold-nugget-1-glava": {
+    "path": "1/gold-nugget-1-glava.webp",
     "sheet": "livestock_variable"
   },
-  "golden-nugget-koral-2-glave": {
-    "path": "golden-nugget-koral-2-glave.webp",
+  "gold-nugget-2-glave": {
+    "path": "1/gold-nugget-2-glave.webp",
     "sheet": "livestock_variable"
   },
-  "golden-nugget-koral-3-glave": {
-    "path": "golden-nugget-koral-3-glave.webp",
+  "gold-nugget-3-glave": {
+    "path": "1/gold-nugget-3-glave.webp",
     "sheet": "livestock_variable"
   },
-  "hellfire-torch-koral-1-glava": {
-    "path": "hellfire-torch-koral-1-glava.webp",
+  "gold-nugget-4-glave": {
+    "path": "1/gold-nugget-4-glave.webp",
     "sheet": "livestock_variable"
   },
-  "hellfire-torch-koral-2-glave": {
-    "path": "hellfire-torch-koral-2-glave.webp",
+  "goldfinger-torch-1-glava": {
+    "path": "1/goldfinger-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "goldfinger-torch-2-glave": {
+    "path": "1/goldfinger-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "hellfire-torch-1-glava": {
+    "path": "1/hellfire-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "hellfire-torch-2-glave": {
+    "path": "1/hellfire-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
   "jebao-dcp-3500-mod": {
@@ -2287,6 +2327,10 @@
     "path": "maxspect-xf350-samo-pumpa.webp",
     "sheet": "variable"
   },
+  "metalic-orange-hammer": {
+    "path": "1/metalic-orange-hammer.webp",
+    "sheet": "livestock_simple"
+  },
   "neptune-systems-trident-reagesi-2-meseca": {
     "path": "neptune-systems-trident-reagesi-2-meseca.webp",
     "sheet": "simple"
@@ -2326,6 +2370,14 @@
   "neptunian-cube-w90": {
     "path": "neptunian-cube-w90.webp",
     "sheet": "variable"
+  },
+  "ny-knicks-indo-gold-torch-1-glava": {
+    "path": "1/ny-knicks-indo-gold-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "ny-knicks-indo-gold-torch-2-glave": {
+    "path": "1/ny-knicks-indo-gold-torch-2-glave.webp",
+    "sheet": "livestock_variable"
   },
   "octo-c2t-90": {
     "path": "octo-c2t-90.webp",
@@ -2395,6 +2447,26 @@
     "path": "octo-varios-8-mod.webp",
     "sheet": "variable"
   },
+  "orange-tip-black-torch-1-glava": {
+    "path": "1/orange-tip-black-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "orange-tip-black-torch-2-glave": {
+    "path": "1/orange-tip-black-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "pearl-bubble-coral-1-glava": {
+    "path": "1/pearl-bubble-coral-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "pearl-bubble-coral-2-glave": {
+    "path": "1/pearl-bubble-coral-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "pearl-bubble-coral-4-glave": {
+    "path": "1/pearl-bubble-coral-4-glave.webp",
+    "sheet": "livestock_variable"
+  },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
     "sheet": "simple"
@@ -2419,8 +2491,12 @@
     "path": "salifert-po4-test.webp",
     "sheet": "simple"
   },
-  "ultra-neon-yellow": {
-    "path": "1/ultra-neon-yellow.webp",
+  "special-rainbow-hammer": {
+    "path": "1/special-rainbow-hammer.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-neon-green-hammer": {
+    "path": "1/ultra-neon-green-hammer.webp",
     "sheet": "livestock_simple"
   }
 }

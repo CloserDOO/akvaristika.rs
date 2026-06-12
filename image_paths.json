@@ -2063,6 +2063,10 @@
     "path": "jebao-sow-8-mod.webp",
     "sheet": "variable"
   },
+  "joker": {
+    "path": "1/joker.webp",
+    "sheet": "livestock_simple"
+  },
   "kamoer-kamoer-ato-one-2-ro-eu": {
     "path": "kamoer-kamoer-ato-one-2-ro-eu.webp",
     "sheet": "variable"
@@ -2414,5 +2418,9 @@
   "salifert-po4-test": {
     "path": "salifert-po4-test.webp",
     "sheet": "simple"
+  },
+  "ultra-neon-yellow": {
+    "path": "1/ultra-neon-yellow.webp",
+    "sheet": "livestock_simple"
   }
 }

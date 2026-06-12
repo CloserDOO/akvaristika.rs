@@ -1,4 +1,8 @@
 {
+  "alien-moss": {
+    "path": "1/alien-moss.webp",
+    "sheet": "livestock_simple"
+  },
   "aqua-illumination-ai-prime-hanging-kit-black": {
     "path": "aqua-illumination-ai-prime-hanging-kit-black.webp",
     "sheet": "simple"
@@ -1875,6 +1879,14 @@
     "path": "arka-zoo-plus-473-ml.webp",
     "sheet": "variable"
   },
+  "atomic-torch-2-glave": {
+    "path": "1/atomic-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "atomic-torch-3-glave": {
+    "path": "1/atomic-torch-3-glave.webp",
+    "sheet": "livestock_variable"
+  },
   "bi-colour-blood-moon-torch-1-glava": {
     "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -1923,6 +1935,14 @@
     "path": "1/candy-cane-neon-green-3-glave.webp",
     "sheet": "livestock_variable"
   },
+  "cotton-candy-3cm": {
+    "path": "1/cotton-candy-3cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "cotton-candy-kolonija": {
+    "path": "1/cotton-candy-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "cotton-candy-torch-1-glava": {
     "path": "1/cotton-candy-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -1930,6 +1950,10 @@
   "cotton-candy-torch-2-glave": {
     "path": "1/cotton-candy-torch-2-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "court-jester-maze-coral": {
+    "path": "1/court-jester-maze-coral.webp",
+    "sheet": "livestock_simple"
   },
   "dragon-s-soul-torch-1-glava": {
     "path": "1/dragon-s-soul-torch-1-glava.webp",
@@ -2015,6 +2039,14 @@
     "path": "ecotech-vortech-propeller-pump-mobius-mp60.webp",
     "sheet": "variable"
   },
+  "electric-watermelon-3cm": {
+    "path": "1/electric-watermelon-3cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "electric-watermelon-kolonija": {
+    "path": "1/electric-watermelon-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "flipper-flip-max": {
     "path": "flipper-flip-max.webp",
     "sheet": "variable"
@@ -2061,6 +2093,14 @@
   },
   "hellfire-torch-2-glave": {
     "path": "1/hellfire-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "indonesian-sun-god-torch-1-glava": {
+    "path": "1/indonesian-sun-god-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "indonesian-sun-god-torch-2-glave": {
+    "path": "1/indonesian-sun-god-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
   "jebao-dcp-3500-mod": {
@@ -2331,6 +2371,14 @@
     "path": "1/metalic-orange-hammer.webp",
     "sheet": "livestock_simple"
   },
+  "neon-green-torch-2-glave": {
+    "path": "1/neon-green-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "neon-green-torch-3-glava": {
+    "path": "1/neon-green-torch-3-glava.webp",
+    "sheet": "livestock_variable"
+  },
   "neptune-systems-trident-reagesi-2-meseca": {
     "path": "neptune-systems-trident-reagesi-2-meseca.webp",
     "sheet": "simple"
@@ -2455,6 +2503,10 @@
     "path": "1/orange-tip-black-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
+  "paradise": {
+    "path": "1/paradise.webp",
+    "sheet": "livestock_simple"
+  },
   "pearl-bubble-coral-1-glava": {
     "path": "1/pearl-bubble-coral-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2495,8 +2547,24 @@
     "path": "1/special-rainbow-hammer.webp",
     "sheet": "livestock_simple"
   },
+  "ultra-green-maze-coral-4-cm": {
+    "path": "1/ultra-green-maze-coral-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "ultra-green-maze-coral-kolonija": {
+    "path": "1/ultra-green-maze-coral-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "ultra-neon-green-hammer": {
     "path": "1/ultra-neon-green-hammer.webp",
     "sheet": "livestock_simple"
+  },
+  "yellow-tip-dark-green-torch-1-glava": {
+    "path": "1/yellow-tip-dark-green-torch-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "yellow-tip-dark-green-torch-2-glave": {
+    "path": "1/yellow-tip-dark-green-torch-2-glave.webp",
+    "sheet": "livestock_variable"
   }
 }

@@ -1887,6 +1887,14 @@
     "path": "1/atomic-torch-3-glave.webp",
     "sheet": "livestock_variable"
   },
+  "australia-ultra-red-green-center": {
+    "path": "1/australia-ultra-red-green-center.webp",
+    "sheet": "livestock_simple"
+  },
+  "basilisk-eye": {
+    "path": "1/basilisk-eye.webp",
+    "sheet": "livestock_simple"
+  },
   "bi-colour-blood-moon-torch-1-glava": {
     "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -1901,6 +1909,14 @@
   },
   "bicolor-branching-hammer-4-glave": {
     "path": "1/bicolor-branching-hammer-4-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "black-cherry-ice-3cm": {
+    "path": "1/black-cherry-ice-3cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "black-cherry-ice-kolonija": {
+    "path": "1/black-cherry-ice-kolonija.webp",
     "sheet": "livestock_variable"
   },
   "blue-treasure-aquaculture-salt-25kg": {
@@ -1934,6 +1950,10 @@
   "candy-cane-neon-green-3-glave": {
     "path": "1/candy-cane-neon-green-3-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "christmass": {
+    "path": "1/christmass.webp",
+    "sheet": "livestock_simple"
   },
   "cotton-candy-3cm": {
     "path": "1/cotton-candy-3cm.webp",
@@ -2047,6 +2067,22 @@
     "path": "1/electric-watermelon-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "electric-watermelon-kolonija-2": {
+    "path": "1/electric-watermelon-kolonija-2.webp",
+    "sheet": "livestock_variable"
+  },
+  "favia-of-the-gods": {
+    "path": "1/favia-of-the-gods.webp",
+    "sheet": "livestock_simple"
+  },
+  "firefly-3cm": {
+    "path": "1/firefly-3cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "firefly-kolonija": {
+    "path": "1/firefly-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "flipper-flip-max": {
     "path": "flipper-flip-max.webp",
     "sheet": "variable"
@@ -2085,6 +2121,10 @@
   },
   "goldfinger-torch-2-glave": {
     "path": "1/goldfinger-torch-2-glave.webp",
+    "sheet": "livestock_variable"
+  },
+  "green-heart-ultra-red-kolonija": {
+    "path": "1/green-heart-ultra-red-kolonija.webp",
     "sheet": "livestock_variable"
   },
   "hellfire-torch-1-glava": {
@@ -2250,6 +2290,10 @@
   "mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod": {
     "path": "mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod.webp",
     "sheet": "variable"
+  },
+  "matrix-glitch": {
+    "path": "1/matrix-glitch.webp",
+    "sheet": "livestock_simple"
   },
   "maxspect-ad600": {
     "path": "maxspect-ad600.webp",
@@ -2495,6 +2539,18 @@
     "path": "octo-varios-8-mod.webp",
     "sheet": "variable"
   },
+  "orange-pumpkin-eye-4-cm": {
+    "path": "1/orange-pumpkin-eye-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "orange-pumpkin-eye-kolonija": {
+    "path": "1/orange-pumpkin-eye-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "orange-ricordea-florida": {
+    "path": "1/orange-ricordea-florida.webp",
+    "sheet": "livestock_simple"
+  },
   "orange-tip-black-torch-1-glava": {
     "path": "1/orange-tip-black-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2518,6 +2574,10 @@
   "pearl-bubble-coral-4-glave": {
     "path": "1/pearl-bubble-coral-4-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "red-orange-flame": {
+    "path": "1/red-orange-flame.webp",
+    "sheet": "livestock_simple"
   },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
@@ -2543,6 +2603,10 @@
     "path": "salifert-po4-test.webp",
     "sheet": "simple"
   },
+  "solarfire-flare": {
+    "path": "1/solarfire-flare.webp",
+    "sheet": "livestock_simple"
+  },
   "special-rainbow-hammer": {
     "path": "1/special-rainbow-hammer.webp",
     "sheet": "livestock_simple"
@@ -2555,8 +2619,36 @@
     "path": "1/ultra-green-maze-coral-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "ultra-lime-light": {
+    "path": "1/ultra-lime-light.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-mint-medallion": {
+    "path": "1/ultra-mint-medallion.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-neon-green": {
+    "path": "1/ultra-neon-green.webp",
+    "sheet": "livestock_simple"
+  },
   "ultra-neon-green-hammer": {
     "path": "1/ultra-neon-green-hammer.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-red": {
+    "path": "1/ultra-red.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultraviolet-speckle": {
+    "path": "1/ultraviolet-speckle.webp",
+    "sheet": "livestock_simple"
+  },
+  "voodoo-river": {
+    "path": "1/voodoo-river.webp",
+    "sheet": "livestock_simple"
+  },
+  "yellow-gold-speckled": {
+    "path": "1/yellow-gold-speckled.webp",
     "sheet": "livestock_simple"
   },
   "yellow-tip-dark-green-torch-1-glava": {

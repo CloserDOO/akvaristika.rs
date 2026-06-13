@@ -1895,6 +1895,10 @@
     "path": "1/basilisk-eye.webp",
     "sheet": "livestock_simple"
   },
+  "berry-smoothie-kolonija": {
+    "path": "1/berry-smoothie-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "bi-colour-blood-moon-torch-1-glava": {
     "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -1902,6 +1906,10 @@
   "bi-colour-blood-moon-torch-2-glave": {
     "path": "1/bi-colour-blood-moon-torch-2-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "bicolor-brain-coral": {
+    "path": "1/bicolor-brain-coral.webp",
+    "sheet": "livestock_simple"
   },
   "bicolor-branching-hammer-2-glave": {
     "path": "1/bicolor-branching-hammer-2-glave.webp",
@@ -1911,13 +1919,17 @@
     "path": "1/bicolor-branching-hammer-4-glave.webp",
     "sheet": "livestock_variable"
   },
-  "black-cherry-ice-3cm": {
-    "path": "1/black-cherry-ice-3cm.webp",
+  "black-cherry-ice-3-cm": {
+    "path": "1/black-cherry-ice-3-cm.webp",
     "sheet": "livestock_variable"
   },
   "black-cherry-ice-kolonija": {
     "path": "1/black-cherry-ice-kolonija.webp",
     "sheet": "livestock_variable"
+  },
+  "black-hole-sun": {
+    "path": "1/black-hole-sun.webp",
+    "sheet": "livestock_simple"
   },
   "blue-treasure-aquaculture-salt-25kg": {
     "path": "blue-treasure-aquaculture-salt-25kg.webp",
@@ -1955,8 +1967,8 @@
     "path": "1/christmass.webp",
     "sheet": "livestock_simple"
   },
-  "cotton-candy-3cm": {
-    "path": "1/cotton-candy-3cm.webp",
+  "cotton-candy-3-cm": {
+    "path": "1/cotton-candy-3-cm.webp",
     "sheet": "livestock_variable"
   },
   "cotton-candy-kolonija": {
@@ -1973,6 +1985,10 @@
   },
   "court-jester-maze-coral": {
     "path": "1/court-jester-maze-coral.webp",
+    "sheet": "livestock_simple"
+  },
+  "crimson-tide-acanthastrea": {
+    "path": "1/crimson-tide-acanthastrea.webp",
     "sheet": "livestock_simple"
   },
   "dragon-s-soul-torch-1-glava": {
@@ -2059,8 +2075,8 @@
     "path": "ecotech-vortech-propeller-pump-mobius-mp60.webp",
     "sheet": "variable"
   },
-  "electric-watermelon-3cm": {
-    "path": "1/electric-watermelon-3cm.webp",
+  "electric-watermelon-3-cm": {
+    "path": "1/electric-watermelon-3-cm.webp",
     "sheet": "livestock_variable"
   },
   "electric-watermelon-kolonija": {
@@ -2075,8 +2091,8 @@
     "path": "1/favia-of-the-gods.webp",
     "sheet": "livestock_simple"
   },
-  "firefly-3cm": {
-    "path": "1/firefly-3cm.webp",
+  "firefly-3-cm": {
+    "path": "1/firefly-3-cm.webp",
     "sheet": "livestock_variable"
   },
   "firefly-kolonija": {
@@ -2123,6 +2139,10 @@
     "path": "1/goldfinger-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
+  "green-carpet": {
+    "path": "1/green-carpet.webp",
+    "sheet": "livestock_simple"
+  },
   "green-heart-ultra-red-kolonija": {
     "path": "1/green-heart-ultra-red-kolonija.webp",
     "sheet": "livestock_variable"
@@ -2134,6 +2154,10 @@
   "hellfire-torch-2-glave": {
     "path": "1/hellfire-torch-2-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "imperial-jade": {
+    "path": "1/imperial-jade.webp",
+    "sheet": "livestock_simple"
   },
   "indonesian-sun-god-torch-1-glava": {
     "path": "1/indonesian-sun-god-torch-1-glava.webp",
@@ -2214,6 +2238,10 @@
   "lan-shan-w1-10": {
     "path": "lan-shan-w1-10.webp",
     "sheet": "simple"
+  },
+  "lavender-frost-kolonija": {
+    "path": "1/lavender-frost-kolonija.webp",
+    "sheet": "livestock_variable"
   },
   "magfloat-magfloat-100458-mod": {
     "path": "magfloat-magfloat-100458-mod.webp",
@@ -2419,9 +2447,13 @@
     "path": "1/neon-green-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
-  "neon-green-torch-3-glava": {
-    "path": "1/neon-green-torch-3-glava.webp",
+  "neon-green-torch-3-glave": {
+    "path": "1/neon-green-torch-3-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "neon-splatter": {
+    "path": "1/neon-splatter.webp",
+    "sheet": "livestock_simple"
   },
   "neptune-systems-trident-reagesi-2-meseca": {
     "path": "neptune-systems-trident-reagesi-2-meseca.webp",
@@ -2575,6 +2607,30 @@
     "path": "1/pearl-bubble-coral-4-glave.webp",
     "sheet": "livestock_variable"
   },
+  "purple-ice-kolonija": {
+    "path": "1/purple-ice-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "rainbow-3-cm": {
+    "path": "1/rainbow-3-cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "rainbow-kolonija": {
+    "path": "1/rainbow-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "rainbow-passion": {
+    "path": "1/rainbow-passion.webp",
+    "sheet": "livestock_simple"
+  },
+  "rainbow-passion-2": {
+    "path": "1/rainbow-passion-2.webp",
+    "sheet": "livestock_simple"
+  },
+  "red-light-district-kolonija": {
+    "path": "1/red-light-district-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "red-orange-flame": {
     "path": "1/red-orange-flame.webp",
     "sheet": "livestock_simple"
@@ -2611,6 +2667,18 @@
     "path": "1/special-rainbow-hammer.webp",
     "sheet": "livestock_simple"
   },
+  "tricolor-brain-coral": {
+    "path": "1/tricolor-brain-coral.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-green-4-cm": {
+    "path": "1/ultra-green-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
+  "ultra-green-kolonija": {
+    "path": "1/ultra-green-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "ultra-green-maze-coral-4-cm": {
     "path": "1/ultra-green-maze-coral-4-cm.webp",
     "sheet": "livestock_variable"
@@ -2633,6 +2701,10 @@
   },
   "ultra-neon-green-hammer": {
     "path": "1/ultra-neon-green-hammer.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-rainbow": {
+    "path": "1/ultra-rainbow.webp",
     "sheet": "livestock_simple"
   },
   "ultra-red": {

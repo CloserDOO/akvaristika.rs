@@ -1943,6 +1943,14 @@
     "path": "blue-treasure-aquarium-reef-salt-6-7-kg.webp",
     "sheet": "variable"
   },
+  "bubblegum-frost-hammer-1-glava": {
+    "path": "1/bubblegum-frost-hammer-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "bubblegum-frost-hammer-kolonija": {
+    "path": "1/bubblegum-frost-hammer-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "candy-cane-blue-1-glava": {
     "path": "1/candy-cane-blue-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2127,6 +2135,14 @@
     "path": "1/gold-nugget-4-glave.webp",
     "sheet": "livestock_variable"
   },
+  "gold-nugget-hologram-hammer-1-glava": {
+    "path": "1/gold-nugget-hologram-hammer-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "gold-nugget-hologram-hammer-kolonija": {
+    "path": "1/gold-nugget-hologram-hammer-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "goldfinger-torch-1-glava": {
     "path": "1/goldfinger-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2141,6 +2157,14 @@
   },
   "green-heart-ultra-red-kolonija": {
     "path": "1/green-heart-ultra-red-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "green-splatter-hammer-1-glava": {
+    "path": "1/green-splatter-hammer-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "green-splatter-hammer-kolonija": {
+    "path": "1/green-splatter-hammer-kolonija.webp",
     "sheet": "livestock_variable"
   },
   "hellfire-torch-1-glava": {
@@ -2439,6 +2463,18 @@
     "path": "1/metalic-orange-hammer.webp",
     "sheet": "livestock_simple"
   },
+  "metallic-green-kolonija": {
+    "path": "1/metallic-green-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "mint-branching-hammer-1-glava": {
+    "path": "1/mint-branching-hammer-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "mint-branching-hammer-kolonija": {
+    "path": "1/mint-branching-hammer-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "neon-green-torch-2-glave": {
     "path": "1/neon-green-torch-2-glave.webp",
     "sheet": "livestock_variable"
@@ -2605,6 +2641,14 @@
   },
   "purple-ice-kolonija": {
     "path": "1/purple-ice-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
+  "purple-tip-hammer-1-glava": {
+    "path": "1/purple-tip-hammer-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "purple-tip-hammer-kolonija": {
+    "path": "1/purple-tip-hammer-kolonija.webp",
     "sheet": "livestock_variable"
   },
   "rainbow-3-cm": {

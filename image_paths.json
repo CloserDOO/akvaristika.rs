@@ -2151,6 +2151,14 @@
     "path": "1/goldfinger-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
+  "green-branching-frogspawn-1-glava": {
+    "path": "1/green-branching-frogspawn-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "green-branching-frogspawn-kolonija": {
+    "path": "1/green-branching-frogspawn-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "green-carpet": {
     "path": "1/green-carpet.webp",
     "sheet": "livestock_simple"
@@ -2627,6 +2635,14 @@
     "path": "1/paradise.webp",
     "sheet": "livestock_simple"
   },
+  "peachy-orange-branching-frogspawn-1-glava": {
+    "path": "1/peachy-orange-branching-frogspawn-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "peachy-orange-branching-frogspawn-kolonija": {
+    "path": "1/peachy-orange-branching-frogspawn-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "pearl-bubble-coral-1-glava": {
     "path": "1/pearl-bubble-coral-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2675,6 +2691,10 @@
     "path": "1/red-orange-flame.webp",
     "sheet": "livestock_simple"
   },
+  "rr-tropic-thunder-10-cm": {
+    "path": "1/rr-tropic-thunder-10-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
     "sheet": "simple"
@@ -2706,6 +2726,14 @@
   "special-rainbow-hammer": {
     "path": "1/special-rainbow-hammer.webp",
     "sheet": "livestock_simple"
+  },
+  "tan-branching-frogspawn-1-glava": {
+    "path": "1/tan-branching-frogspawn-1-glava.webp",
+    "sheet": "livestock_variable"
+  },
+  "tan-branching-frogspawn-kolonija": {
+    "path": "1/tan-branching-frogspawn-kolonija.webp",
+    "sheet": "livestock_variable"
   },
   "tricolor-brain-coral": {
     "path": "1/tricolor-brain-coral.webp",

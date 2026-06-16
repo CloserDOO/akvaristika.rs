@@ -1895,6 +1895,10 @@
     "path": "1/basilisk-eye.webp",
     "sheet": "livestock_simple"
   },
+  "berry-smoothie-4-cm": {
+    "path": "1/berry-smoothie-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "berry-smoothie-kolonija": {
     "path": "1/berry-smoothie-kolonija.webp",
     "sheet": "livestock_variable"
@@ -1971,8 +1975,8 @@
     "path": "1/candy-cane-neon-green-3-glave.webp",
     "sheet": "livestock_variable"
   },
-  "christmass": {
-    "path": "1/christmass.webp",
+  "christmas": {
+    "path": "1/christmas.webp",
     "sheet": "livestock_simple"
   },
   "cotton-candy-3-cm": {
@@ -2163,6 +2167,10 @@
     "path": "1/green-carpet.webp",
     "sheet": "livestock_simple"
   },
+  "green-heart-ultra-red-4-cm": {
+    "path": "1/green-heart-ultra-red-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "green-heart-ultra-red-kolonija": {
     "path": "1/green-heart-ultra-red-kolonija.webp",
     "sheet": "livestock_variable"
@@ -2266,6 +2274,10 @@
   "lan-shan-w1-10": {
     "path": "lan-shan-w1-10.webp",
     "sheet": "simple"
+  },
+  "lavender-frost-4-cm": {
+    "path": "1/lavender-frost-4-cm.webp",
+    "sheet": "livestock_variable"
   },
   "lavender-frost-kolonija": {
     "path": "1/lavender-frost-kolonija.webp",
@@ -2471,6 +2483,10 @@
     "path": "1/metalic-orange-hammer.webp",
     "sheet": "livestock_simple"
   },
+  "metallic-green-4-cm": {
+    "path": "1/metallic-green-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "metallic-green-kolonija": {
     "path": "1/metallic-green-kolonija.webp",
     "sheet": "livestock_variable"
@@ -2655,6 +2671,10 @@
     "path": "1/pearl-bubble-coral-4-glave.webp",
     "sheet": "livestock_variable"
   },
+  "purple-ice-4-cm": {
+    "path": "1/purple-ice-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "purple-ice-kolonija": {
     "path": "1/purple-ice-kolonija.webp",
     "sheet": "livestock_variable"
@@ -2683,6 +2703,10 @@
     "path": "1/rainbow-passion-2.webp",
     "sheet": "livestock_simple"
   },
+  "red-light-district-4-cm": {
+    "path": "1/red-light-district-4-cm.webp",
+    "sheet": "livestock_variable"
+  },
   "red-light-district-kolonija": {
     "path": "1/red-light-district-kolonija.webp",
     "sheet": "livestock_variable"
@@ -2690,10 +2714,6 @@
   "red-orange-flame": {
     "path": "1/red-orange-flame.webp",
     "sheet": "livestock_simple"
-  },
-  "rr-tropic-thunder-10-cm": {
-    "path": "1/rr-tropic-thunder-10-cm.webp",
-    "sheet": "livestock_variable"
   },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",

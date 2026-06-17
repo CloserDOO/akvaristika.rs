@@ -2107,6 +2107,10 @@
     "path": "1/electric-watermelon-3-cm.webp",
     "sheet": "livestock_variable"
   },
+  "electric-watermelon-kolonija": {
+    "path": "1/electric-watermelon-kolonija.webp",
+    "sheet": "livestock_variable"
+  },
   "favia-of-the-gods": {
     "path": "1/favia-of-the-gods.webp",
     "sheet": "livestock_simple"

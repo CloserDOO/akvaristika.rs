@@ -1955,6 +1955,10 @@
     "path": "1/bubblegum-frost-hammer-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "bubblegum-frosting": {
+    "path": "1/bubblegum-frosting.webp",
+    "sheet": "livestock_simple"
+  },
   "candy-cane-blue-1-glava": {
     "path": "1/candy-cane-blue-1-glava.webp",
     "sheet": "livestock_variable"
@@ -1974,6 +1978,14 @@
   "candy-cane-neon-green-3-glave": {
     "path": "1/candy-cane-neon-green-3-glave.webp",
     "sheet": "livestock_variable"
+  },
+  "carnival-ride-acanthastrea": {
+    "path": "1/carnival-ride-acanthastrea.webp",
+    "sheet": "livestock_simple"
+  },
+  "cherry-bomb": {
+    "path": "1/cherry-bomb.webp",
+    "sheet": "livestock_simple"
   },
   "christmas": {
     "path": "1/christmas.webp",
@@ -2001,6 +2013,10 @@
   },
   "crimson-tide-acanthastrea": {
     "path": "1/crimson-tide-acanthastrea.webp",
+    "sheet": "livestock_simple"
+  },
+  "death-blow-acanthastrea": {
+    "path": "1/death-blow-acanthastrea.webp",
     "sheet": "livestock_simple"
   },
   "dragon-s-soul-torch-1-glava": {
@@ -2267,6 +2283,10 @@
     "path": "kamoer-kamoer-x2sr-eu.webp",
     "sheet": "simple"
   },
+  "kung-pao": {
+    "path": "1/kung-pao.webp",
+    "sheet": "livestock_simple"
+  },
   "lan-shan-w1-10": {
     "path": "lan-shan-w1-10.webp",
     "sheet": "simple"
@@ -2495,6 +2515,10 @@
     "path": "1/mint-branching-hammer-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "neon-green-mille": {
+    "path": "1/neon-green-mille.webp",
+    "sheet": "livestock_simple"
+  },
   "neon-green-torch-2-glave": {
     "path": "1/neon-green-torch-2-glave.webp",
     "sheet": "livestock_variable"
@@ -2691,6 +2715,10 @@
     "path": "1/rainbow-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "rainbow-madness-acanthastrea": {
+    "path": "1/rainbow-madness-acanthastrea.webp",
+    "sheet": "livestock_simple"
+  },
   "rainbow-passion": {
     "path": "1/rainbow-passion.webp",
     "sheet": "livestock_simple"
@@ -2706,6 +2734,10 @@
   "red-light-district-kolonija": {
     "path": "1/red-light-district-kolonija.webp",
     "sheet": "livestock_variable"
+  },
+  "rr-tropic-thunder": {
+    "path": "1/rr-tropic-thunder.webp",
+    "sheet": "livestock_simple"
   },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
@@ -2737,6 +2769,10 @@
   },
   "special-rainbow-hammer": {
     "path": "1/special-rainbow-hammer.webp",
+    "sheet": "livestock_simple"
+  },
+  "starburst-nebula-acanthastrea": {
+    "path": "1/starburst-nebula-acanthastrea.webp",
     "sheet": "livestock_simple"
   },
   "tan-branching-frogspawn-1-glava": {
@@ -2793,6 +2829,10 @@
   },
   "ultra-red": {
     "path": "1/ultra-red.webp",
+    "sheet": "livestock_simple"
+  },
+  "ultra-yellow-hammer": {
+    "path": "1/ultra-yellow-hammer.webp",
     "sheet": "livestock_simple"
   },
   "ultraviolet-speckle": {

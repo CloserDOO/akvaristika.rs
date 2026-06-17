@@ -2091,10 +2091,6 @@
     "path": "1/electric-watermelon-3-cm.webp",
     "sheet": "livestock_variable"
   },
-  "electric-watermelon-kolonija": {
-    "path": "1/electric-watermelon-kolonija.webp",
-    "sheet": "livestock_variable"
-  },
   "favia-of-the-gods": {
     "path": "1/favia-of-the-gods.webp",
     "sheet": "livestock_simple"
@@ -2711,10 +2707,6 @@
     "path": "1/red-light-district-kolonija.webp",
     "sheet": "livestock_variable"
   },
-  "red-orange-flame": {
-    "path": "1/red-orange-flame.webp",
-    "sheet": "livestock_simple"
-  },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
     "sheet": "simple"
@@ -2757,6 +2749,10 @@
   },
   "tricolor-brain-coral": {
     "path": "1/tricolor-brain-coral.webp",
+    "sheet": "livestock_simple"
+  },
+  "uc-joker": {
+    "path": "1/uc-joker.webp",
     "sheet": "livestock_simple"
   },
   "ultra-green-4-cm": {

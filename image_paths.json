@@ -15,9 +15,41 @@
     "path": "aqua-illumination-hms-bracket-h26-h32.webp",
     "sheet": "variable"
   },
+  "aqua-illumination-hms-bracket-h52-h64": {
+    "path": "1/aqua-illumination-hms-bracket-h52-h64.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-hms-rail-120-cm": {
+    "path": "1/aqua-illumination-hms-rail-120-cm.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-hms-rail-90-cm": {
+    "path": "1/aqua-illumination-hms-rail-90-cm.webp",
+    "sheet": "variable"
+  },
   "aqua-illumination-hms-single-arm-kit": {
     "path": "aqua-illumination-hms-single-arm-kit.webp",
     "sheet": "simple"
+  },
+  "aqua-illumination-hydra-hd-black-32-mod": {
+    "path": "1/aqua-illumination-hydra-hd-black-32-mod.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-hydra-hd-black-64-mod": {
+    "path": "1/aqua-illumination-hydra-hd-black-64-mod.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-nero-3-mod": {
+    "path": "1/aqua-illumination-nero-3-mod.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-nero-5-mod": {
+    "path": "1/aqua-illumination-nero-5-mod.webp",
+    "sheet": "variable"
+  },
+  "aqua-illumination-nero-7-mod": {
+    "path": "1/aqua-illumination-nero-7-mod.webp",
+    "sheet": "variable"
   },
   "aqua-illumination-prime16-fuge-black-w-eu-cable": {
     "path": "aqua-illumination-prime16-fuge-black-w-eu-cable.webp",
@@ -30,6 +62,358 @@
   "aqua-medic-sulfur": {
     "path": "aqua-medic-sulfur.webp",
     "sheet": "simple"
+  },
+  "aquaforest-af-amino-mix-10-ml": {
+    "path": "1/aquaforest-af-amino-mix-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-amino-mix-50-ml": {
+    "path": "1/aquaforest-af-amino-mix-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-bio-sand-0-5-1-5-mm": {
+    "path": "1/aquaforest-af-bio-sand-0-5-1-5-mm.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-bio-sand-1-2-mm": {
+    "path": "1/aquaforest-af-bio-sand-1-2-mm.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-build-10-ml": {
+    "path": "1/aquaforest-af-build-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-build-50-ml": {
+    "path": "1/aquaforest-af-build-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-carbon-boost-125-ml": {
+    "path": "1/aquaforest-af-carbon-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-carbon-boost-2000-ml": {
+    "path": "1/aquaforest-af-carbon-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-carbon-boost-250-ml": {
+    "path": "1/aquaforest-af-carbon-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-carbon-boost-500-ml": {
+    "path": "1/aquaforest-af-carbon-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-clear-boost-125-ml": {
+    "path": "1/aquaforest-af-clear-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-clear-boost-250-ml": {
+    "path": "1/aquaforest-af-clear-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-clear-boost-500-ml": {
+    "path": "1/aquaforest-af-clear-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-energy-10-ml": {
+    "path": "1/aquaforest-af-energy-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-energy-50-ml": {
+    "path": "1/aquaforest-af-energy-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-frag-rocks-black": {
+    "path": "1/aquaforest-af-frag-rocks-black.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-frag-rocks-purple": {
+    "path": "1/aquaforest-af-frag-rocks-purple.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-frag-rocks-white": {
+    "path": "1/aquaforest-af-frag-rocks-white.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-iron-boost-125-ml": {
+    "path": "1/aquaforest-af-iron-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-iron-boost-2000-ml": {
+    "path": "1/aquaforest-af-iron-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-iron-boost-250-ml": {
+    "path": "1/aquaforest-af-iron-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-iron-boost-500-ml": {
+    "path": "1/aquaforest-af-iron-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-k-boost-125-ml": {
+    "path": "1/aquaforest-af-k-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-k-boost-2000-ml": {
+    "path": "1/aquaforest-af-k-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-k-boost-250-ml": {
+    "path": "1/aquaforest-af-k-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-k-boost-500-ml": {
+    "path": "1/aquaforest-af-k-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-essence-125-ml": {
+    "path": "1/aquaforest-af-life-essence-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-essence-2000-ml": {
+    "path": "1/aquaforest-af-life-essence-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-essence-250-ml": {
+    "path": "1/aquaforest-af-life-essence-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-essence-500-ml": {
+    "path": "1/aquaforest-af-life-essence-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-source-1000-g": {
+    "path": "1/aquaforest-af-life-source-1000-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-life-source-330-g": {
+    "path": "1/aquaforest-af-life-source-330-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-macro-125-ml": {
+    "path": "1/aquaforest-af-macro-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-macro-2000-ml": {
+    "path": "1/aquaforest-af-macro-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-macro-250-ml": {
+    "path": "1/aquaforest-af-macro-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-macro-500-ml": {
+    "path": "1/aquaforest-af-macro-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-marine-mix-m": {
+    "path": "1/aquaforest-af-marine-mix-m.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-marine-mix-s": {
+    "path": "1/aquaforest-af-marine-mix-s.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-micro-125-ml": {
+    "path": "1/aquaforest-af-micro-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-micro-2000-ml": {
+    "path": "1/aquaforest-af-micro-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-micro-250-ml": {
+    "path": "1/aquaforest-af-micro-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-micro-500-ml": {
+    "path": "1/aquaforest-af-micro-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-mini-rocks-black": {
+    "path": "1/aquaforest-af-mini-rocks-black.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-mini-rocks-purple": {
+    "path": "1/aquaforest-af-mini-rocks-purple.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-mini-rocks-white": {
+    "path": "1/aquaforest-af-mini-rocks-white.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-minus-ph-2000-ml": {
+    "path": "1/aquaforest-af-minus-ph-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-minus-ph-250-ml": {
+    "path": "1/aquaforest-af-minus-ph-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-minus-ph-500-ml": {
+    "path": "1/aquaforest-af-minus-ph-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-n-boost-125-ml": {
+    "path": "1/aquaforest-af-n-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-n-boost-2000-ml": {
+    "path": "1/aquaforest-af-n-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-n-boost-250-ml": {
+    "path": "1/aquaforest-af-n-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-n-boost-500-ml": {
+    "path": "1/aquaforest-af-n-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-plug-rocks-black": {
+    "path": "1/aquaforest-af-plug-rocks-black.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-plug-rocks-purple": {
+    "path": "1/aquaforest-af-plug-rocks-purple.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-po4-boost-125-ml": {
+    "path": "1/aquaforest-af-po4-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-po4-boost-2000-ml": {
+    "path": "1/aquaforest-af-po4-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-po4-boost-250-ml": {
+    "path": "1/aquaforest-af-po4-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-po4-boost-500-ml": {
+    "path": "1/aquaforest-af-po4-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-power-elixir-1000-l": {
+    "path": "1/aquaforest-af-power-elixir-1000-l.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-power-elixir-200-ml": {
+    "path": "1/aquaforest-af-power-elixir-200-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-power-elixir-2000-ml": {
+    "path": "1/aquaforest-af-power-elixir-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-protect-dip-10-ml": {
+    "path": "1/aquaforest-af-protect-dip-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-protect-dip-50-ml": {
+    "path": "1/aquaforest-af-protect-dip-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-purifying-resin-125-ml": {
+    "path": "1/aquaforest-af-purifying-resin-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-purifying-resin-250-ml": {
+    "path": "1/aquaforest-af-purifying-resin-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-red-boost-125-ml": {
+    "path": "1/aquaforest-af-red-boost-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-red-boost-2000-ml": {
+    "path": "1/aquaforest-af-red-boost-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-red-boost-250-ml": {
+    "path": "1/aquaforest-af-red-boost-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-red-boost-500-ml": {
+    "path": "1/aquaforest-af-red-boost-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-remineralizer-125-ml": {
+    "path": "1/aquaforest-af-remineralizer-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-remineralizer-250-ml": {
+    "path": "1/aquaforest-af-remineralizer-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-remineralizer-500-ml": {
+    "path": "1/aquaforest-af-remineralizer-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-arch-10-kg": {
+    "path": "1/aquaforest-af-rock-arch-10-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-arch-18-kg": {
+    "path": "1/aquaforest-af-rock-arch-18-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-base-10-kg": {
+    "path": "1/aquaforest-af-rock-base-10-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-base-18-kg": {
+    "path": "1/aquaforest-af-rock-base-18-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-mix-10-kg": {
+    "path": "1/aquaforest-af-rock-mix-10-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-mix-18-kg": {
+    "path": "1/aquaforest-af-rock-mix-18-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-shelf-10-kg": {
+    "path": "1/aquaforest-af-rock-shelf-10-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-rock-shelf-18-kg": {
+    "path": "1/aquaforest-af-rock-shelf-18-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-shrimp-gh-125-ml": {
+    "path": "1/aquaforest-af-shrimp-gh-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-shrimp-gh-250-ml": {
+    "path": "1/aquaforest-af-shrimp-gh-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-vitality-10-ml": {
+    "path": "1/aquaforest-af-vitality-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-vitality-50-ml": {
+    "path": "1/aquaforest-af-vitality-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-water-conditioner-125-ml": {
+    "path": "1/aquaforest-af-water-conditioner-125-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-water-conditioner-2000-ml": {
+    "path": "1/aquaforest-af-water-conditioner-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-water-conditioner-250-ml": {
+    "path": "1/aquaforest-af-water-conditioner-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-af-water-conditioner-500-ml": {
+    "path": "1/aquaforest-af-water-conditioner-500-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-afix-glue": {
     "path": "aquaforest-afix-glue.webp",
@@ -63,13 +447,41 @@
     "path": "aquaforest-barium.webp",
     "sheet": "simple"
   },
+  "aquaforest-bio-s-10-ml": {
+    "path": "1/aquaforest-bio-s-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-bio-s-50-ml": {
+    "path": "1/aquaforest-bio-s-50-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-borium": {
     "path": "aquaforest-borium.webp",
     "sheet": "simple"
   },
+  "aquaforest-calcium-3500-g": {
+    "path": "1/aquaforest-calcium-3500-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-calcium-850-g": {
+    "path": "1/aquaforest-calcium-850-g.webp",
+    "sheet": "variable"
+  },
   "aquaforest-calcium-test-kit": {
     "path": "aquaforest-calcium-test-kit.webp",
     "sheet": "simple"
+  },
+  "aquaforest-carbon-1000-ml": {
+    "path": "1/aquaforest-carbon-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-carbon-250-ml": {
+    "path": "1/aquaforest-carbon-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-carbon-5000-ml": {
+    "path": "1/aquaforest-carbon-5000-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-carbon-fresh": {
     "path": "aquaforest-carbon-fresh.webp",
@@ -83,9 +495,53 @@
     "path": "aquaforest-cobaltum.webp",
     "sheet": "simple"
   },
+  "aquaforest-component-3in1-1000-ml": {
+    "path": "1/aquaforest-component-3in1-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-3in1-2000-ml": {
+    "path": "1/aquaforest-component-3in1-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-3in1-500-ml": {
+    "path": "1/aquaforest-component-3in1-500-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-a-2000-ml": {
+    "path": "1/aquaforest-component-a-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-a-250-ml": {
+    "path": "1/aquaforest-component-a-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-b-2000-ml": {
+    "path": "1/aquaforest-component-b-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-b-250-ml": {
+    "path": "1/aquaforest-component-b-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-c-2000-ml": {
+    "path": "1/aquaforest-component-c-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-component-c-250-ml": {
+    "path": "1/aquaforest-component-c-250-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-components-pro-3x5l": {
     "path": "aquaforest-components-pro-3x5l.webp",
     "sheet": "simple"
+  },
+  "aquaforest-components-strong-4-x-250-ml": {
+    "path": "1/aquaforest-components-strong-4-x-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-components-strong-4-x-75-ml": {
+    "path": "1/aquaforest-components-strong-4-x-75-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-demineralization-resin": {
     "path": "aquaforest-demineralization-resin.webp",
@@ -99,13 +555,49 @@
     "path": "aquaforest-ferrum.webp",
     "sheet": "simple"
   },
+  "aquaforest-fish-v-10-ml": {
+    "path": "1/aquaforest-fish-v-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-fish-v-50-ml": {
+    "path": "1/aquaforest-fish-v-50-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-fluorum": {
     "path": "aquaforest-fluorum.webp",
     "sheet": "simple"
   },
+  "aquaforest-garlic-essence-10-ml": {
+    "path": "1/aquaforest-garlic-essence-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-garlic-essence-50-ml": {
+    "path": "1/aquaforest-garlic-essence-50-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-growth-boost": {
     "path": "aquaforest-growth-boost.webp",
     "sheet": "simple"
+  },
+  "aquaforest-hose-af110": {
+    "path": "1/aquaforest-hose-af110.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-hose-af130": {
+    "path": "1/aquaforest-hose-af130.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-hose-af90": {
+    "path": "1/aquaforest-hose-af90.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-hybrid-pro-salt-22-kg": {
+    "path": "1/aquaforest-hybrid-pro-salt-22-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-hybrid-pro-salt-5-kg": {
+    "path": "1/aquaforest-hybrid-pro-salt-5-kg.webp",
+    "sheet": "variable"
   },
   "aquaforest-icp-test-1": {
     "path": "aquaforest-icp-test-1.webp",
@@ -127,6 +619,14 @@
     "path": "aquaforest-kalium.webp",
     "sheet": "simple"
   },
+  "aquaforest-kh-buffer-1200-g": {
+    "path": "1/aquaforest-kh-buffer-1200-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-kh-buffer-5000-g": {
+    "path": "1/aquaforest-kh-buffer-5000-g.webp",
+    "sheet": "variable"
+  },
   "aquaforest-lava-soil-5l": {
     "path": "aquaforest-lava-soil-5l.webp",
     "sheet": "simple"
@@ -134,6 +634,18 @@
   "aquaforest-lava-soil-black-5l": {
     "path": "aquaforest-lava-soil-black-5l.webp",
     "sheet": "simple"
+  },
+  "aquaforest-life-bio-fil-1200-ml": {
+    "path": "1/aquaforest-life-bio-fil-1200-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-life-bio-fil-250-ml": {
+    "path": "1/aquaforest-life-bio-fil-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-life-bio-fil-5000-ml": {
+    "path": "1/aquaforest-life-bio-fil-5000-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-life-bio-media": {
     "path": "aquaforest-life-bio-media.webp",
@@ -163,6 +675,14 @@
     "path": "aquaforest-lps-food.webp",
     "sheet": "simple"
   },
+  "aquaforest-magnesium-4000-g": {
+    "path": "1/aquaforest-magnesium-4000-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-magnesium-750-g": {
+    "path": "1/aquaforest-magnesium-750-g.webp",
+    "sheet": "variable"
+  },
   "aquaforest-magnesium-test-kit": {
     "path": "aquaforest-magnesium-test-kit.webp",
     "sheet": "simple"
@@ -179,9 +699,29 @@
     "path": "aquaforest-natural-substrate-7-5l.webp",
     "sheet": "simple"
   },
+  "aquaforest-new-af-media-reactor-110-mod": {
+    "path": "1/aquaforest-new-af-media-reactor-110-mod.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-new-af-media-reactor-130-mod": {
+    "path": "1/aquaforest-new-af-media-reactor-130-mod.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-new-af-media-reactor-90-mod": {
+    "path": "1/aquaforest-new-af-media-reactor-90-mod.webp",
+    "sheet": "variable"
+  },
   "aquaforest-niccolum": {
     "path": "aquaforest-niccolum.webp",
     "sheet": "simple"
+  },
+  "aquaforest-nitraphos-minus-2000-ml": {
+    "path": "1/aquaforest-nitraphos-minus-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-nitraphos-minus-250-ml": {
+    "path": "1/aquaforest-nitraphos-minus-250-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-nitrate-test-kit": {
     "path": "aquaforest-nitrate-test-kit.webp",
@@ -190,6 +730,30 @@
   "aquaforest-no3-plus-lab": {
     "path": "aquaforest-no3-plus-lab.webp",
     "sheet": "simple"
+  },
+  "aquaforest-np-pro-10-ml": {
+    "path": "1/aquaforest-np-pro-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-np-pro-2000-ml": {
+    "path": "1/aquaforest-np-pro-2000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-np-pro-50-ml": {
+    "path": "1/aquaforest-np-pro-50-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-phosphate-minus-1000-ml": {
+    "path": "1/aquaforest-phosphate-minus-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-phosphate-minus-250-ml": {
+    "path": "1/aquaforest-phosphate-minus-250-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-phosphate-minus-5000-ml": {
+    "path": "1/aquaforest-phosphate-minus-5000-ml.webp",
+    "sheet": "variable"
   },
   "aquaforest-phosphate-test-kit": {
     "path": "aquaforest-phosphate-test-kit.webp",
@@ -227,6 +791,14 @@
     "path": "aquaforest-pro-bio-f-25g.webp",
     "sheet": "simple"
   },
+  "aquaforest-pro-bio-s-10-ml": {
+    "path": "1/aquaforest-pro-bio-s-10-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-pro-bio-s-50-ml": {
+    "path": "1/aquaforest-pro-bio-s-50-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-pure-food": {
     "path": "aquaforest-pure-food.webp",
     "sheet": "simple"
@@ -234,6 +806,74 @@
   "aquaforest-purify-50-ml": {
     "path": "aquaforest-purify-50-ml.webp",
     "sheet": "simple"
+  },
+  "aquaforest-reef-mineral-salt-5000-g": {
+    "path": "1/aquaforest-reef-mineral-salt-5000-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-mineral-salt-800-g": {
+    "path": "1/aquaforest-reef-mineral-salt-800-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-10-kg": {
+    "path": "1/aquaforest-reef-salt-10-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-19-kg": {
+    "path": "1/aquaforest-reef-salt-19-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-2-kg": {
+    "path": "1/aquaforest-reef-salt-2-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-20-kg": {
+    "path": "1/aquaforest-reef-salt-20-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-22-kg": {
+    "path": "1/aquaforest-reef-salt-22-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-25-kg": {
+    "path": "1/aquaforest-reef-salt-25-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-4-kg": {
+    "path": "1/aquaforest-reef-salt-4-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-plus-22-kg": {
+    "path": "1/aquaforest-reef-salt-plus-22-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-reef-salt-plus-5-kg": {
+    "path": "1/aquaforest-reef-salt-plus-5-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-sea-salt-22-kg": {
+    "path": "1/aquaforest-sea-salt-22-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-sea-salt-25-kg": {
+    "path": "1/aquaforest-sea-salt-25-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-sea-salt-7-5-kg": {
+    "path": "1/aquaforest-sea-salt-7-5-kg.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-stone-fix-1500-g": {
+    "path": "1/aquaforest-stone-fix-1500-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-stone-fix-250-g": {
+    "path": "1/aquaforest-stone-fix-250-g.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-stone-fix-6-kg": {
+    "path": "1/aquaforest-stone-fix-6-kg.webp",
+    "sheet": "variable"
   },
   "aquaforest-strontium": {
     "path": "aquaforest-strontium.webp",
@@ -251,6 +891,14 @@
     "path": "aquaforest-vanadium.webp",
     "sheet": "simple"
   },
+  "aquaforest-zeo-mix-1000-ml": {
+    "path": "1/aquaforest-zeo-mix-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "aquaforest-zeo-mix-5000-ml": {
+    "path": "1/aquaforest-zeo-mix-5000-ml.webp",
+    "sheet": "variable"
+  },
   "aquaforest-zeolith-fresh": {
     "path": "aquaforest-zeolith-fresh.webp",
     "sheet": "simple"
@@ -267,9 +915,93 @@
     "path": "arka-aip-away.webp",
     "sheet": "simple"
   },
+  "arka-algaway-118-ml": {
+    "path": "1/arka-algaway-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-algaway-473-ml": {
+    "path": "1/arka-algaway-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-algaway-5-l": {
+    "path": "1/arka-algaway-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-all-in-one-118-ml": {
+    "path": "1/arka-all-in-one-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-all-in-one-236-ml": {
+    "path": "1/arka-all-in-one-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-all-in-one-473-ml": {
+    "path": "1/arka-all-in-one-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-all-in-one-5-l": {
+    "path": "1/arka-all-in-one-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-balance-118-ml": {
+    "path": "1/arka-aqua-balance-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-balance-236-ml": {
+    "path": "1/arka-aqua-balance-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-balance-473-ml": {
+    "path": "1/arka-aqua-balance-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-balance-5-l": {
+    "path": "1/arka-aqua-balance-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-pure-118-ml": {
+    "path": "1/arka-aqua-pure-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-pure-236-ml": {
+    "path": "1/arka-aqua-pure-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-pure-473-ml": {
+    "path": "1/arka-aqua-pure-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-aqua-pure-5-l": {
+    "path": "1/arka-aqua-pure-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-arka-marine-gran-250-ml": {
+    "path": "1/arka-arka-marine-gran-250-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-arka-marine-gran-500-ml": {
+    "path": "1/arka-arka-marine-gran-500-ml.webp",
+    "sheet": "variable"
+  },
   "arka-artemia": {
     "path": "arka-artemia.webp",
     "sheet": "simple"
+  },
+  "arka-artemiss-salt-freshwater-118-ml": {
+    "path": "1/arka-artemiss-salt-freshwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-artemiss-salt-freshwater-236-ml": {
+    "path": "1/arka-artemiss-salt-freshwater-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-artemiss-salt-freshwater-473-ml": {
+    "path": "1/arka-artemiss-salt-freshwater-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-artemiss-salt-freshwater-5-l": {
+    "path": "1/arka-artemiss-salt-freshwater-5-l.webp",
+    "sheet": "variable"
   },
   "arka-basic-1": {
     "path": "arka-basic-1.webp",
@@ -283,9 +1015,125 @@
     "path": "arka-basic-3.webp",
     "sheet": "simple"
   },
+  "arka-basic-k-118-ml": {
+    "path": "1/arka-basic-k-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-k-473-ml": {
+    "path": "1/arka-basic-k-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-n-118-ml": {
+    "path": "1/arka-basic-n-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-n-473-ml": {
+    "path": "1/arka-basic-n-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-n-5-l": {
+    "path": "1/arka-basic-n-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-p-118-ml": {
+    "path": "1/arka-basic-p-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-p-473-ml": {
+    "path": "1/arka-basic-p-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-basic-p-5-l": {
+    "path": "1/arka-basic-p-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-bio-co-118-ml": {
+    "path": "1/arka-bio-co-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-bio-co-236-ml": {
+    "path": "1/arka-bio-co-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-bio-co-473-ml": {
+    "path": "1/arka-bio-co-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-calcium-118-ml": {
+    "path": "1/arka-calcium-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-calcium-473-ml": {
+    "path": "1/arka-calcium-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-carbopure-11-5-kg": {
+    "path": "1/arka-carbopure-11-5-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-carbopure-2-9-kg": {
+    "path": "1/arka-carbopure-2-9-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-carbopure-243-g": {
+    "path": "1/arka-carbopure-243-g.webp",
+    "sheet": "variable"
+  },
+  "arka-carbopure-486-g": {
+    "path": "1/arka-carbopure-486-g.webp",
+    "sheet": "variable"
+  },
   "arka-casuarina-cones-i-arke-1-3cm-50-kom": {
     "path": "arka-casuarina-cones-i-arke-1-3cm-50-kom.webp",
     "sheet": "simple"
+  },
+  "arka-catappa-leaves-10-kom-l": {
+    "path": "1/arka-catappa-leaves-10-kom-l.webp",
+    "sheet": "variable"
+  },
+  "arka-catappa-leaves-10-kom-m": {
+    "path": "1/arka-catappa-leaves-10-kom-m.webp",
+    "sheet": "variable"
+  },
+  "arka-catappa-leaves-10-kom-nano": {
+    "path": "1/arka-catappa-leaves-10-kom-nano.webp",
+    "sheet": "variable"
+  },
+  "arka-catappa-leaves-10-kom-s": {
+    "path": "1/arka-catappa-leaves-10-kom-s.webp",
+    "sheet": "variable"
+  },
+  "arka-complete-118-ml": {
+    "path": "1/arka-complete-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-complete-236-ml": {
+    "path": "1/arka-complete-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-complete-473-ml": {
+    "path": "1/arka-complete-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-complete-5-l": {
+    "path": "1/arka-complete-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-coral-active-118-ml": {
+    "path": "1/arka-coral-active-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coral-active-236-ml": {
+    "path": "1/arka-coral-active-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coral-active-473-ml": {
+    "path": "1/arka-coral-active-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coral-active-5-l": {
+    "path": "1/arka-coral-active-5-l.webp",
+    "sheet": "variable"
   },
   "arka-coral-food-lps": {
     "path": "arka-coral-food-lps.webp",
@@ -298,6 +1146,22 @@
   "arka-coral-food-sps": {
     "path": "arka-coral-food-sps.webp",
     "sheet": "simple"
+  },
+  "arka-coralline-118-ml": {
+    "path": "1/arka-coralline-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coralline-236-ml": {
+    "path": "1/arka-coralline-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coralline-473-ml": {
+    "path": "1/arka-coralline-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-coralline-5-l": {
+    "path": "1/arka-coralline-5-l.webp",
+    "sheet": "variable"
   },
   "arka-coralscaper": {
     "path": "arka-coralscaper.webp",
@@ -319,17 +1183,117 @@
     "path": "arka-dadap-leaves-7-13cm-10-stk.webp",
     "sheet": "simple"
   },
+  "arka-elements-118-ml": {
+    "path": "1/arka-elements-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-elements-236-ml": {
+    "path": "1/arka-elements-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-elements-473-ml": {
+    "path": "1/arka-elements-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-filtermedia-bag-1000-ml": {
+    "path": "1/arka-filtermedia-bag-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-filtermedia-bag-500-ml": {
+    "path": "1/arka-filtermedia-bag-500-ml.webp",
+    "sheet": "variable"
+  },
   "arka-garlic": {
     "path": "arka-garlic.webp",
     "sheet": "simple"
+  },
+  "arka-gel-filter-118-ml": {
+    "path": "1/arka-gel-filter-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-gel-filter-236-ml": {
+    "path": "1/arka-gel-filter-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-gel-filter-473-ml": {
+    "path": "1/arka-gel-filter-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-herbtana-118-ml": {
+    "path": "1/arka-herbtana-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-herbtana-236-ml": {
+    "path": "1/arka-herbtana-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-herbtana-473-ml": {
+    "path": "1/arka-herbtana-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-herbtana-5-l": {
+    "path": "1/arka-herbtana-5-l.webp",
+    "sheet": "variable"
   },
   "arka-in-line-tds-meter": {
     "path": "arka-in-line-tds-meter.webp",
     "sheet": "simple"
   },
+  "arka-iodide-bromide-118-ml": {
+    "path": "1/arka-iodide-bromide-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-iodide-bromide-236-ml": {
+    "path": "1/arka-iodide-bromide-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-iodide-bromide-473-ml": {
+    "path": "1/arka-iodide-bromide-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-kh-booster-1000-g": {
+    "path": "1/arka-kh-booster-1000-g.webp",
+    "sheet": "variable"
+  },
+  "arka-kh-booster-250-g": {
+    "path": "1/arka-kh-booster-250-g.webp",
+    "sheet": "variable"
+  },
+  "arka-kh-booster-500-g": {
+    "path": "1/arka-kh-booster-500-g.webp",
+    "sheet": "variable"
+  },
+  "arka-magnesium-236-ml": {
+    "path": "1/arka-magnesium-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-magnesium-473-ml": {
+    "path": "1/arka-magnesium-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-marine-flakes-250-ml": {
+    "path": "1/arka-marine-flakes-250-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-marine-flakes-500-ml": {
+    "path": "1/arka-marine-flakes-500-ml.webp",
+    "sheet": "variable"
+  },
   "arka-multifunction-pipette": {
     "path": "arka-multifunction-pipette.webp",
     "sheet": "simple"
+  },
+  "arka-myaqua-1900-c1": {
+    "path": "1/arka-myaqua-1900-c1.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-1900-c2": {
+    "path": "1/arka-myaqua-1900-c2.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-300-ml": {
+    "path": "1/arka-myaqua-300-ml.webp",
+    "sheet": "variable"
   },
   "arka-myaqua-3800": {
     "path": "arka-myaqua-3800.webp",
@@ -339,6 +1303,18 @@
     "path": "arka-myaqua-400.webp",
     "sheet": "simple"
   },
+  "arka-myaqua-400-c1": {
+    "path": "1/arka-myaqua-400-c1.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-400-c2": {
+    "path": "1/arka-myaqua-400-c2.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-500-ml": {
+    "path": "1/arka-myaqua-500-ml.webp",
+    "sheet": "variable"
+  },
   "arka-myaqua-multifilter": {
     "path": "arka-myaqua-multifilter.webp",
     "sheet": "simple"
@@ -346,6 +1322,26 @@
   "arka-myaqua-multifilter-4-l": {
     "path": "arka-myaqua-multifilter-4-l.webp",
     "sheet": "simple"
+  },
+  "arka-myaqua-myaqua-190": {
+    "path": "1/arka-myaqua-myaqua-190.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-myaqua-1900": {
+    "path": "1/arka-myaqua-myaqua-1900.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-myaqua-380": {
+    "path": "1/arka-myaqua-myaqua-380.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-myaqua-3800": {
+    "path": "1/arka-myaqua-myaqua-3800.webp",
+    "sheet": "variable"
+  },
+  "arka-myaqua-myaqua-400": {
+    "path": "1/arka-myaqua-myaqua-400.webp",
+    "sheet": "variable"
   },
   "arka-myaqua-ph-tds-ec-meter": {
     "path": "arka-myaqua-ph-tds-ec-meter.webp",
@@ -355,21 +1351,273 @@
     "path": "arka-myaqua190-380.webp",
     "sheet": "simple"
   },
+  "arka-myaqua1900": {
+    "path": "1/arka-myaqua1900.webp",
+    "sheet": "simple"
+  },
   "arka-myaua1900": {
     "path": "arka-myaua1900.webp",
     "sheet": "simple"
+  },
+  "arka-mybetta-care-bettacare-118-ml": {
+    "path": "1/arka-mybetta-care-bettacare-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-mybetta-care-bettacare-236-ml": {
+    "path": "1/arka-mybetta-care-bettacare-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-mybetta-water-118-ml": {
+    "path": "1/arka-mybetta-water-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-mybetta-water-236-ml": {
+    "path": "1/arka-mybetta-water-236-ml.webp",
+    "sheet": "variable"
   },
   "arka-myreef": {
     "path": "arka-myreef.webp",
     "sheet": "simple"
   },
+  "arka-myreef-coralplugs-round-21-mm": {
+    "path": "1/arka-myreef-coralplugs-round-21-mm.webp",
+    "sheet": "variable"
+  },
+  "arka-myreef-coralplugs-round-30-mm": {
+    "path": "1/arka-myreef-coralplugs-round-30-mm.webp",
+    "sheet": "variable"
+  },
+  "arka-myreef-frag-rack-deck-with-magnet-16-mod": {
+    "path": "1/arka-myreef-frag-rack-deck-with-magnet-16-mod.webp",
+    "sheet": "variable"
+  },
+  "arka-myreef-frag-rack-deck-with-magnet-32-mod": {
+    "path": "1/arka-myreef-frag-rack-deck-with-magnet-32-mod.webp",
+    "sheet": "variable"
+  },
+  "arka-myreef-frag-rack-deck-with-magnet-8-mod": {
+    "path": "1/arka-myreef-frag-rack-deck-with-magnet-8-mod.webp",
+    "sheet": "variable"
+  },
+  "arka-myshrimp-aqua-118-ml": {
+    "path": "1/arka-myshrimp-aqua-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-myshrimp-aqua-236-ml": {
+    "path": "1/arka-myshrimp-aqua-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-myshrimp-care-118-ml": {
+    "path": "1/arka-myshrimp-care-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-myshrimp-care-236-ml": {
+    "path": "1/arka-myshrimp-care-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nite-out-ii-118-ml": {
+    "path": "1/arka-nite-out-ii-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nite-out-ii-236-ml": {
+    "path": "1/arka-nite-out-ii-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nite-out-ii-473-ml": {
+    "path": "1/arka-nite-out-ii-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nite-out-ii-5-l": {
+    "path": "1/arka-nite-out-ii-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-nopo-control-118-ml": {
+    "path": "1/arka-nopo-control-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nopo-control-473-ml": {
+    "path": "1/arka-nopo-control-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-nopo-control-5-l": {
+    "path": "1/arka-nopo-control-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-organic-active-salt-10-kg": {
+    "path": "1/arka-organic-active-salt-10-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-organic-active-salt-20-kg": {
+    "path": "1/arka-organic-active-salt-20-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-pee-gone-100-ml": {
+    "path": "1/arka-pee-gone-100-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-pee-gone-750-ml": {
+    "path": "1/arka-pee-gone-750-ml.webp",
+    "sheet": "variable"
+  },
   "arka-ph": {
     "path": "arka-ph.webp",
     "sheet": "simple"
   },
+  "arka-ph-decrease-freshwater-118-ml": {
+    "path": "1/arka-ph-decrease-freshwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-decrease-freshwater-236-ml": {
+    "path": "1/arka-ph-decrease-freshwater-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-decrease-freshwater-473-ml": {
+    "path": "1/arka-ph-decrease-freshwater-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-increase-freshwater-118-ml": {
+    "path": "1/arka-ph-increase-freshwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-increase-freshwater-236-ml": {
+    "path": "1/arka-ph-increase-freshwater-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-increase-freshwater-473-ml": {
+    "path": "1/arka-ph-increase-freshwater-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-increase-saltwater-118-ml": {
+    "path": "1/arka-ph-increase-saltwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-ph-increase-saltwater-473-ml": {
+    "path": "1/arka-ph-increase-saltwater-473-ml.webp",
+    "sheet": "variable"
+  },
   "arka-ph-meter": {
     "path": "arka-ph-meter.webp",
     "sheet": "simple"
+  },
+  "arka-phos-out-4-118-ml": {
+    "path": "1/arka-phos-out-4-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-236-ml": {
+    "path": "1/arka-phos-out-4-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-473-ml": {
+    "path": "1/arka-phos-out-4-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-5-l": {
+    "path": "1/arka-phos-out-4-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-granule-2-7-kg": {
+    "path": "1/arka-phos-out-4-granule-2-7-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-granule-275-g": {
+    "path": "1/arka-phos-out-4-granule-275-g.webp",
+    "sheet": "variable"
+  },
+  "arka-phos-out-4-granule-550-g": {
+    "path": "1/arka-phos-out-4-granule-550-g.webp",
+    "sheet": "variable"
+  },
+  "arka-phyto-plus-118-ml": {
+    "path": "1/arka-phyto-plus-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-phyto-plus-236-ml": {
+    "path": "1/arka-phyto-plus-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-phyto-plus-473-ml": {
+    "path": "1/arka-phyto-plus-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-fe-118-ml": {
+    "path": "1/arka-plants-fe-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-fe-236-ml": {
+    "path": "1/arka-plants-fe-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-fe-473-ml": {
+    "path": "1/arka-plants-fe-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-fe-5-l": {
+    "path": "1/arka-plants-fe-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-green-118-ml": {
+    "path": "1/arka-plants-green-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-green-236-ml": {
+    "path": "1/arka-plants-green-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-green-473-ml": {
+    "path": "1/arka-plants-green-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-green-5-l": {
+    "path": "1/arka-plants-green-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-k-118-ml": {
+    "path": "1/arka-plants-k-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-k-236-ml": {
+    "path": "1/arka-plants-k-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-k-473-ml": {
+    "path": "1/arka-plants-k-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-n-118-ml": {
+    "path": "1/arka-plants-n-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-n-236-ml": {
+    "path": "1/arka-plants-n-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-n-473-ml": {
+    "path": "1/arka-plants-n-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-npk-118-ml": {
+    "path": "1/arka-plants-npk-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-npk-236-ml": {
+    "path": "1/arka-plants-npk-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-npk-473-ml": {
+    "path": "1/arka-plants-npk-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-p-118-ml": {
+    "path": "1/arka-plants-p-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-p-236-ml": {
+    "path": "1/arka-plants-p-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-plants-p-473-ml": {
+    "path": "1/arka-plants-p-473-ml.webp",
+    "sheet": "variable"
   },
   "arka-plantscaper": {
     "path": "arka-plantscaper.webp",
@@ -391,21 +1639,245 @@
     "path": "arka-polyglue.webp",
     "sheet": "simple"
   },
+  "arka-premium-reef-salt-10-kg": {
+    "path": "1/arka-premium-reef-salt-10-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-premium-reef-salt-20-kg": {
+    "path": "1/arka-premium-reef-salt-20-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-reefscaper-450-g": {
+    "path": "1/arka-reefscaper-450-g.webp",
+    "sheet": "variable"
+  },
+  "arka-reefscaper-5-kg": {
+    "path": "1/arka-reefscaper-5-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-reefscaper-850-g": {
+    "path": "1/arka-reefscaper-850-g.webp",
+    "sheet": "variable"
+  },
   "arka-refractometer-incl-led": {
     "path": "arka-refractometer-incl-led.webp",
     "sheet": "simple"
+  },
+  "arka-resin-pure-1000-ml": {
+    "path": "1/arka-resin-pure-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-resin-pure-20-l": {
+    "path": "1/arka-resin-pure-20-l.webp",
+    "sheet": "variable"
+  },
+  "arka-resin-pure-4-l": {
+    "path": "1/arka-resin-pure-4-l.webp",
+    "sheet": "variable"
   },
   "arka-shrimp-food-150ml-50-g": {
     "path": "arka-shrimp-food-150ml-50-g.webp",
     "sheet": "simple"
   },
+  "arka-sili-out-2-13-7-kg": {
+    "path": "1/arka-sili-out-2-13-7-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-sili-out-2-3-5-kg": {
+    "path": "1/arka-sili-out-2-3-5-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-sili-out-2-350-g": {
+    "path": "1/arka-sili-out-2-350-g.webp",
+    "sheet": "variable"
+  },
+  "arka-sili-out-2-700-g": {
+    "path": "1/arka-sili-out-2-700-g.webp",
+    "sheet": "variable"
+  },
+  "arka-special-blend-118-ml": {
+    "path": "1/arka-special-blend-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-special-blend-236-ml": {
+    "path": "1/arka-special-blend-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-special-blend-3-79-l": {
+    "path": "1/arka-special-blend-3-79-l.webp",
+    "sheet": "variable"
+  },
+  "arka-special-blend-473-ml": {
+    "path": "1/arka-special-blend-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-strontium-118-ml": {
+    "path": "1/arka-strontium-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-strontium-236-ml": {
+    "path": "1/arka-strontium-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-strontium-473-ml": {
+    "path": "1/arka-strontium-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-strontium-5-l": {
+    "path": "1/arka-strontium-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-substrate-cleaner-118-ml": {
+    "path": "1/arka-substrate-cleaner-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-substrate-cleaner-236-ml": {
+    "path": "1/arka-substrate-cleaner-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-substrate-cleaner-473-ml": {
+    "path": "1/arka-substrate-cleaner-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-substrate-cleaner-5-l": {
+    "path": "1/arka-substrate-cleaner-5-l.webp",
+    "sheet": "variable"
+  },
   "arka-tds-ec-meter": {
     "path": "arka-tds-ec-meter.webp",
     "sheet": "simple"
   },
+  "arka-therap-118-ml": {
+    "path": "1/arka-therap-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-therap-236-ml": {
+    "path": "1/arka-therap-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-therap-3-79-l": {
+    "path": "1/arka-therap-3-79-l.webp",
+    "sheet": "variable"
+  },
+  "arka-therap-473-ml": {
+    "path": "1/arka-therap-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-universal-pipette-10-ml-2-kom": {
+    "path": "1/arka-universal-pipette-10-ml-2-kom.webp",
+    "sheet": "variable"
+  },
+  "arka-universal-pipette-3-ml-5-kom": {
+    "path": "1/arka-universal-pipette-3-ml-5-kom.webp",
+    "sheet": "variable"
+  },
+  "arka-vita-flakes-1000-ml": {
+    "path": "1/arka-vita-flakes-1000-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vita-flakes-250-ml": {
+    "path": "1/arka-vita-flakes-250-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vita-flakes-500-ml": {
+    "path": "1/arka-vita-flakes-500-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vita-gran-250-ml": {
+    "path": "1/arka-vita-gran-250-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vita-gran-500-ml": {
+    "path": "1/arka-vita-gran-500-ml.webp",
+    "sheet": "variable"
+  },
   "arka-vita-pleco": {
     "path": "arka-vita-pleco.webp",
     "sheet": "simple"
+  },
+  "arka-vitamins-freshwater-118-ml": {
+    "path": "1/arka-vitamins-freshwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-freshwater-236-ml": {
+    "path": "1/arka-vitamins-freshwater-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-freshwater-473-ml": {
+    "path": "1/arka-vitamins-freshwater-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-saltwater-118-ml": {
+    "path": "1/arka-vitamins-saltwater-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-saltwater-236-ml": {
+    "path": "1/arka-vitamins-saltwater-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-saltwater-473-ml": {
+    "path": "1/arka-vitamins-saltwater-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-vitamins-saltwater-5-l": {
+    "path": "1/arka-vitamins-saltwater-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-xtreme-118-ml": {
+    "path": "1/arka-xtreme-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-xtreme-236-ml": {
+    "path": "1/arka-xtreme-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-xtreme-473-ml": {
+    "path": "1/arka-xtreme-473-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-xtreme-5-l": {
+    "path": "1/arka-xtreme-5-l.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-14-kg": {
+    "path": "1/arka-zeopure-14-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-3-5-kg": {
+    "path": "1/arka-zeopure-3-5-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-425-g": {
+    "path": "1/arka-zeopure-425-g.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-850-g": {
+    "path": "1/arka-zeopure-850-g.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-powder-125-g": {
+    "path": "1/arka-zeopure-powder-125-g.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-powder-2-9-kg": {
+    "path": "1/arka-zeopure-powder-2-9-kg.webp",
+    "sheet": "variable"
+  },
+  "arka-zeopure-powder-250-g": {
+    "path": "1/arka-zeopure-powder-250-g.webp",
+    "sheet": "variable"
+  },
+  "arka-zoo-plus-118-ml": {
+    "path": "1/arka-zoo-plus-118-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-zoo-plus-236-ml": {
+    "path": "1/arka-zoo-plus-236-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-zoo-plus-473-ml": {
+    "path": "1/arka-zoo-plus-473-ml.webp",
+    "sheet": "variable"
   },
   "atomic-torch-2-glave": {
     "path": "1/atomic-torch-2-glave.webp",
@@ -466,6 +1938,14 @@
   "blue-treasure-aquaculture-salt-25kg": {
     "path": "blue-treasure-aquaculture-salt-25kg.webp",
     "sheet": "simple"
+  },
+  "blue-treasure-aquarium-reef-salt-25-kg": {
+    "path": "1/blue-treasure-aquarium-reef-salt-25-kg.webp",
+    "sheet": "variable"
+  },
+  "blue-treasure-aquarium-reef-salt-6-7-kg": {
+    "path": "1/blue-treasure-aquarium-reef-salt-6-7-kg.webp",
+    "sheet": "variable"
   },
   "bubblegum-frost-hammer-1-glava": {
     "path": "1/bubblegum-frost-hammer-1-glava.webp",
@@ -547,6 +2027,14 @@
     "path": "ecotech-hanging-kit-for-radion.webp",
     "sheet": "simple"
   },
+  "ecotech-radion-g6pro-xr15": {
+    "path": "1/ecotech-radion-g6pro-xr15.webp",
+    "sheet": "variable"
+  },
+  "ecotech-radion-g6pro-xr30": {
+    "path": "1/ecotech-radion-g6pro-xr30.webp",
+    "sheet": "variable"
+  },
   "ecotech-rms-arms-kit": {
     "path": "ecotech-rms-arms-kit.webp",
     "sheet": "simple"
@@ -554,6 +2042,34 @@
   "ecotech-rms-hanging-kit": {
     "path": "ecotech-rms-hanging-kit.webp",
     "sheet": "simple"
+  },
+  "ecotech-rms-slide-xr15g5": {
+    "path": "1/ecotech-rms-slide-xr15g5.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-slide-xr30g5": {
+    "path": "1/ecotech-rms-slide-xr30g5.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-tank-mount-system-xr15g5": {
+    "path": "1/ecotech-rms-tank-mount-system-xr15g5.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-tank-mount-system-xr30g5": {
+    "path": "1/ecotech-rms-tank-mount-system-xr30g5.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-track-100-cm": {
+    "path": "1/ecotech-rms-track-100-cm.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-track-127-cm": {
+    "path": "1/ecotech-rms-track-127-cm.webp",
+    "sheet": "variable"
+  },
+  "ecotech-rms-track-150-cm": {
+    "path": "1/ecotech-rms-track-150-cm.webp",
+    "sheet": "variable"
   },
   "ecotech-vectra-l2-centrifugal-pump-mobius-w-eu-cable": {
     "path": "ecotech-vectra-l2-centrifugal-pump-mobius-w-eu-cable.webp",
@@ -570,6 +2086,18 @@
   "ecotech-versa-dosing-pump": {
     "path": "ecotech-versa-dosing-pump.webp",
     "sheet": "simple"
+  },
+  "ecotech-vortech-propeller-pump-mobius-mp10": {
+    "path": "1/ecotech-vortech-propeller-pump-mobius-mp10.webp",
+    "sheet": "variable"
+  },
+  "ecotech-vortech-propeller-pump-mobius-mp40": {
+    "path": "1/ecotech-vortech-propeller-pump-mobius-mp40.webp",
+    "sheet": "variable"
+  },
+  "ecotech-vortech-propeller-pump-mobius-mp60": {
+    "path": "1/ecotech-vortech-propeller-pump-mobius-mp60.webp",
+    "sheet": "variable"
   },
   "electric-watermelon-3-cm": {
     "path": "1/electric-watermelon-3-cm.webp",
@@ -590,6 +2118,22 @@
   "firefly-kolonija": {
     "path": "1/firefly-kolonija.webp",
     "sheet": "livestock_variable"
+  },
+  "flipper-flip-max": {
+    "path": "1/flipper-flip-max.webp",
+    "sheet": "variable"
+  },
+  "flipper-flip-nano": {
+    "path": "1/flipper-flip-nano.webp",
+    "sheet": "variable"
+  },
+  "flipper-flip-pico": {
+    "path": "1/flipper-flip-pico.webp",
+    "sheet": "variable"
+  },
+  "flipper-flip-std": {
+    "path": "1/flipper-flip-std.webp",
+    "sheet": "variable"
   },
   "gold-nugget-1-glava": {
     "path": "1/gold-nugget-1-glava.webp",
@@ -671,13 +2215,57 @@
     "path": "1/indonesian-sun-god-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
+  "jebao-dcp-3500-mod": {
+    "path": "1/jebao-dcp-3500-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-dcp-5000-mod": {
+    "path": "1/jebao-dcp-5000-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-dcp-8500-mod": {
+    "path": "1/jebao-dcp-8500-mod.webp",
+    "sheet": "variable"
+  },
   "jebao-md-4-4": {
     "path": "jebao-md-4-4.webp",
     "sheet": "simple"
   },
+  "jebao-mlw-10-mod": {
+    "path": "1/jebao-mlw-10-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-mlw-20-mod": {
+    "path": "1/jebao-mlw-20-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-mlw-30-mod": {
+    "path": "1/jebao-mlw-30-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-sow-15-mod": {
+    "path": "1/jebao-sow-15-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-sow-4-mod": {
+    "path": "1/jebao-sow-4-mod.webp",
+    "sheet": "variable"
+  },
+  "jebao-sow-8-mod": {
+    "path": "1/jebao-sow-8-mod.webp",
+    "sheet": "variable"
+  },
   "joker": {
     "path": "1/joker.webp",
     "sheet": "livestock_simple"
+  },
+  "kamoer-kamoer-ato-one-2-ro-eu": {
+    "path": "1/kamoer-kamoer-ato-one-2-ro-eu.webp",
+    "sheet": "variable"
+  },
+  "kamoer-kamoer-ato-one-2-se-eu": {
+    "path": "1/kamoer-kamoer-ato-one-2-se-eu.webp",
+    "sheet": "variable"
   },
   "kamoer-kamoer-ph-pen": {
     "path": "kamoer-kamoer-ph-pen.webp",
@@ -711,6 +2299,22 @@
     "path": "1/lavender-frost-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "magfloat-magfloat-100458-mod": {
+    "path": "1/magfloat-magfloat-100458-mod.webp",
+    "sheet": "variable"
+  },
+  "magfloat-magfloat-100480-mod": {
+    "path": "1/magfloat-magfloat-100480-mod.webp",
+    "sheet": "variable"
+  },
+  "magfloat-magfloat-100494-mod": {
+    "path": "1/magfloat-magfloat-100494-mod.webp",
+    "sheet": "variable"
+  },
+  "magfloat-magfloat-100497-mod": {
+    "path": "1/magfloat-magfloat-100497-mod.webp",
+    "sheet": "variable"
+  },
   "mantis-acrylic-dosing-container": {
     "path": "mantis-acrylic-dosing-container.webp",
     "sheet": "simple"
@@ -734,6 +2338,42 @@
   "mantis-magnet-viewer": {
     "path": "mantis-magnet-viewer.webp",
     "sheet": "simple"
+  },
+  "mantis-rollermat-1200-mod": {
+    "path": "1/mantis-rollermat-1200-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-rollermat-3000-mod": {
+    "path": "1/mantis-rollermat-3000-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-rollermat-600-mod": {
+    "path": "1/mantis-rollermat-600-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-rollermat-fleecement-1200-mod": {
+    "path": "1/mantis-rollermat-fleecement-1200-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-rollermat-fleecement-3000-mod": {
+    "path": "1/mantis-rollermat-fleecement-3000-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-rollermat-fleecement-600-mod": {
+    "path": "1/mantis-rollermat-fleecement-600-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-tornado-protein-skimer-sa-dc-pumpom-120-mod": {
+    "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-120-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-tornado-protein-skimer-sa-dc-pumpom-150-mod": {
+    "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-150-mod.webp",
+    "sheet": "variable"
+  },
+  "mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod": {
+    "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod.webp",
+    "sheet": "variable"
   },
   "matrix-glitch": {
     "path": "1/matrix-glitch.webp",
@@ -763,13 +2403,97 @@
     "path": "maxspect-g5.webp",
     "sheet": "simple"
   },
+  "maxspect-mj-dc-10k": {
+    "path": "1/maxspect-mj-dc-10k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-dc-12k": {
+    "path": "1/maxspect-mj-dc-12k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-dc-6k": {
+    "path": "1/maxspect-mj-dc-6k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-dc-8k": {
+    "path": "1/maxspect-mj-dc-8k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-gf-2k": {
+    "path": "1/maxspect-mj-gf-2k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-gf-4k": {
+    "path": "1/maxspect-mj-gf-4k.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-l130-l130": {
+    "path": "1/maxspect-mj-l130-l130.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-l130-l130r": {
+    "path": "1/maxspect-mj-l130-l130r.webp",
+    "sheet": "variable"
+  },
   "maxspect-mj-l165": {
     "path": "maxspect-mj-l165.webp",
     "sheet": "simple"
   },
+  "maxspect-mj-sk-200-mod": {
+    "path": "1/maxspect-mj-sk-200-mod.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-sk-400-mod": {
+    "path": "1/maxspect-mj-sk-400-mod.webp",
+    "sheet": "variable"
+  },
+  "maxspect-mj-sk-800-mod": {
+    "path": "1/maxspect-mj-sk-800-mod.webp",
+    "sheet": "variable"
+  },
+  "maxspect-pct-g-v2-60-cm": {
+    "path": "1/maxspect-pct-g-v2-60-cm.webp",
+    "sheet": "variable"
+  },
+  "maxspect-pct-g-v2-83-cm": {
+    "path": "1/maxspect-pct-g-v2-83-cm.webp",
+    "sheet": "variable"
+  },
+  "maxspect-pct-g50": {
+    "path": "1/maxspect-pct-g50.webp",
+    "sheet": "variable"
+  },
+  "maxspect-pct-gg": {
+    "path": "1/maxspect-pct-gg.webp",
+    "sheet": "variable"
+  },
   "maxspect-tz": {
     "path": "maxspect-tz.webp",
     "sheet": "simple"
+  },
+  "maxspect-xf330-dve-pumpe-i-kontroler": {
+    "path": "1/maxspect-xf330-dve-pumpe-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "maxspect-xf330-pumpa-i-kontroler": {
+    "path": "1/maxspect-xf330-pumpa-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "maxspect-xf330-samo-pumpa": {
+    "path": "1/maxspect-xf330-samo-pumpa.webp",
+    "sheet": "variable"
+  },
+  "maxspect-xf350-dve-pumpe-i-kontroler": {
+    "path": "1/maxspect-xf350-dve-pumpe-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "maxspect-xf350-pumpa-i-kontroler": {
+    "path": "1/maxspect-xf350-pumpa-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "maxspect-xf350-samo-pumpa": {
+    "path": "1/maxspect-xf350-samo-pumpa.webp",
+    "sheet": "variable"
   },
   "metalic-orange-hammer": {
     "path": "1/metalic-orange-hammer.webp",
@@ -815,9 +2539,41 @@
     "path": "neptune-systems-trident-reagesi-np2.webp",
     "sheet": "simple"
   },
+  "neptunian-cube": {
+    "path": "1/neptunian-cube.webp",
+    "sheet": "simple"
+  },
+  "neptunian-cube-m-pro-120-mod": {
+    "path": "1/neptunian-cube-m-pro-120-mod.webp",
+    "sheet": "variable"
+  },
+  "neptunian-cube-m-pro-60-mod": {
+    "path": "1/neptunian-cube-m-pro-60-mod.webp",
+    "sheet": "variable"
+  },
+  "neptunian-cube-m-pro-90-mod": {
+    "path": "1/neptunian-cube-m-pro-90-mod.webp",
+    "sheet": "variable"
+  },
+  "neptunian-cube-m180": {
+    "path": "1/neptunian-cube-m180.webp",
+    "sheet": "variable"
+  },
   "neptunian-cube-t45": {
     "path": "neptunian-cube-t45.webp",
     "sheet": "simple"
+  },
+  "neptunian-cube-w120": {
+    "path": "1/neptunian-cube-w120.webp",
+    "sheet": "variable"
+  },
+  "neptunian-cube-w60": {
+    "path": "1/neptunian-cube-w60.webp",
+    "sheet": "variable"
+  },
+  "neptunian-cube-w90": {
+    "path": "1/neptunian-cube-w90.webp",
+    "sheet": "variable"
   },
   "ny-knicks-indo-gold-torch-1-glava": {
     "path": "1/ny-knicks-indo-gold-torch-1-glava.webp",
@@ -831,6 +2587,18 @@
     "path": "octo-c2t-90.webp",
     "sheet": "simple"
   },
+  "octo-classic-int-110-mod": {
+    "path": "1/octo-classic-int-110-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-classic-int-150-mod": {
+    "path": "1/octo-classic-int-150-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-classic-int-200-mod": {
+    "path": "1/octo-classic-int-200-mod.webp",
+    "sheet": "variable"
+  },
   "octo-classic-ns-80": {
     "path": "octo-classic-ns-80.webp",
     "sheet": "simple"
@@ -838,6 +2606,50 @@
   "octo-op-controller": {
     "path": "octo-op-controller.webp",
     "sheet": "simple"
+  },
+  "octo-op-op2-pumpa-i-kontroler": {
+    "path": "1/octo-op-op2-pumpa-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "octo-op-op2-samo-pumpa": {
+    "path": "1/octo-op-op2-samo-pumpa.webp",
+    "sheet": "variable"
+  },
+  "octo-op-op4-pumpa-i-kontroler": {
+    "path": "1/octo-op-op4-pumpa-i-kontroler.webp",
+    "sheet": "variable"
+  },
+  "octo-op-op4-samo-pumpa": {
+    "path": "1/octo-op-op4-samo-pumpa.webp",
+    "sheet": "variable"
+  },
+  "octo-regal-int-150-mod": {
+    "path": "1/octo-regal-int-150-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-regal-int-200-mod": {
+    "path": "1/octo-regal-int-200-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-regal-int-250-mod": {
+    "path": "1/octo-regal-int-250-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-regal-int-300-mod": {
+    "path": "1/octo-regal-int-300-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-varios-4-mod": {
+    "path": "1/octo-varios-4-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-varios-6-mod": {
+    "path": "1/octo-varios-6-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-varios-8-mod": {
+    "path": "1/octo-varios-8-mod.webp",
+    "sheet": "variable"
   },
   "orange-pumpkin-eye-4-cm": {
     "path": "1/orange-pumpkin-eye-4-cm.webp",

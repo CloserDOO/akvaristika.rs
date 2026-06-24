@@ -2595,6 +2595,14 @@
     "path": "1/ny-knicks-indo-gold-torch-2-glave.webp",
     "sheet": "livestock_variable"
   },
+  "octo-c2c-250-mod": {
+    "path": "1/octo-c2c-250-mod.webp",
+    "sheet": "variable"
+  },
+  "octo-c2c-300-mod": {
+    "path": "1/octo-c2c-300-mod.webp",
+    "sheet": "variable"
+  },
   "octo-c2t-90": {
     "path": "octo-c2t-90.webp",
     "sheet": "simple"

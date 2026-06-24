@@ -2207,6 +2207,26 @@
     "path": "1/green-splatter-hammer-kolonija.webp",
     "sheet": "livestock_variable"
   },
+  "hardscape-relief-stone": {
+    "path": "1/hardscape-relief-stone.webp",
+    "sheet": "simple"
+  },
+  "hardscape-tiger-wood": {
+    "path": "1/hardscape-tiger-wood.webp",
+    "sheet": "simple"
+  },
+  "hardscape-turly-stone": {
+    "path": "1/hardscape-turly-stone.webp",
+    "sheet": "simple"
+  },
+  "hardscape-wind-stone": {
+    "path": "1/hardscape-wind-stone.webp",
+    "sheet": "simple"
+  },
+  "hardscape-zeo-lina-stone": {
+    "path": "1/hardscape-zeo-lina-stone.webp",
+    "sheet": "simple"
+  },
   "hellfire-torch-1-glava": {
     "path": "1/hellfire-torch-1-glava.webp",
     "sheet": "livestock_variable"

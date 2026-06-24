@@ -1271,12 +1271,24 @@
     "path": "1/arka-magnesium-473-ml.webp",
     "sheet": "variable"
   },
+  "arka-marine-flakes-1000-ml": {
+    "path": "1/arka-marine-flakes-1000-ml.webp",
+    "sheet": "variable"
+  },
   "arka-marine-flakes-250-ml": {
     "path": "1/arka-marine-flakes-250-ml.webp",
     "sheet": "variable"
   },
   "arka-marine-flakes-500-ml": {
     "path": "1/arka-marine-flakes-500-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-marine-gran-250-ml": {
+    "path": "1/arka-marine-gran-250-ml.webp",
+    "sheet": "variable"
+  },
+  "arka-marine-gran-500-ml": {
+    "path": "1/arka-marine-gran-500-ml.webp",
     "sheet": "variable"
   },
   "arka-multifunction-pipette": {

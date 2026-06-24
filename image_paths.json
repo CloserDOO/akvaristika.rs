@@ -3,6 +3,18 @@
     "path": "1/alien-moss.webp",
     "sheet": "livestock_simple"
   },
+  "apex-a3": {
+    "path": "1/apex-a3.webp",
+    "sheet": "simple"
+  },
+  "apex-a3-jr": {
+    "path": "1/apex-a3-jr.webp",
+    "sheet": "simple"
+  },
+  "apex-a3-pro": {
+    "path": "1/apex-a3-pro.webp",
+    "sheet": "simple"
+  },
   "aqua-illumination-ai-prime-hanging-kit-black": {
     "path": "aqua-illumination-ai-prime-hanging-kit-black.webp",
     "sheet": "simple"
@@ -2027,6 +2039,10 @@
     "path": "1/death-blow-acanthastrea.webp",
     "sheet": "livestock_simple"
   },
+  "dos-quietdrive": {
+    "path": "1/dos-quietdrive.webp",
+    "sheet": "simple"
+  },
   "dragon-s-soul-torch-1-glava": {
     "path": "1/dragon-s-soul-torch-1-glava.webp",
     "sheet": "livestock_variable"
@@ -2830,6 +2846,18 @@
   "tricolor-brain-coral": {
     "path": "1/tricolor-brain-coral.webp",
     "sheet": "livestock_simple"
+  },
+  "trident": {
+    "path": "1/trident.webp",
+    "sheet": "simple"
+  },
+  "trident-np": {
+    "path": "1/trident-np.webp",
+    "sheet": "simple"
+  },
+  "trident-np-set-reagenasa-2-meseca-zaliha": {
+    "path": "1/trident-np-set-reagenasa-2-meseca-zaliha.webp",
+    "sheet": "simple"
   },
   "uc-joker": {
     "path": "1/uc-joker.webp",

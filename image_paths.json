@@ -1,2930 +1,5126 @@
 {
   "alien-moss": {
     "path": "1/alien-moss.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "apex-a3": {
     "path": "1/apex-a3.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "apex-a3-jr": {
     "path": "1/apex-a3-jr.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "apex-a3-pro": {
     "path": "1/apex-a3-pro.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-illumination-ai-prime-hanging-kit-black": {
-    "path": "aqua-illumination-ai-prime-hanging-kit-black.webp",
-    "sheet": "simple"
+    "path": "1/aqua-illumination-ai-prime-hanging-kit-black.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-illumination-ai-prime-tank-mount-black": {
-    "path": "aqua-illumination-ai-prime-tank-mount-black.webp",
-    "sheet": "simple"
+    "path": "1/aqua-illumination-ai-prime-tank-mount-black.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-illumination-hms-bracket-h26-h32": {
-    "path": "aqua-illumination-hms-bracket-h26-h32.webp",
-    "sheet": "variable"
+    "path": "1/aqua-illumination-hms-bracket-h26-h32.webp",
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-hms-bracket-h52-h64": {
     "path": "1/aqua-illumination-hms-bracket-h52-h64.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-hms-rail-120-cm": {
     "path": "1/aqua-illumination-hms-rail-120-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-hms-rail-90-cm": {
     "path": "1/aqua-illumination-hms-rail-90-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-hms-single-arm-kit": {
-    "path": "aqua-illumination-hms-single-arm-kit.webp",
-    "sheet": "simple"
+    "path": "1/aqua-illumination-hms-single-arm-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-illumination-hydra-hd-black-32-mod": {
     "path": "1/aqua-illumination-hydra-hd-black-32-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-hydra-hd-black-64-mod": {
     "path": "1/aqua-illumination-hydra-hd-black-64-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-nero-3-mod": {
     "path": "1/aqua-illumination-nero-3-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-nero-5-mod": {
     "path": "1/aqua-illumination-nero-5-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-nero-7-mod": {
     "path": "1/aqua-illumination-nero-7-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aqua-illumination-prime16-fuge-black-w-eu-cable": {
-    "path": "aqua-illumination-prime16-fuge-black-w-eu-cable.webp",
-    "sheet": "simple"
+    "path": "1/aqua-illumination-prime16-fuge-black-w-eu-cable.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-illumination-prime16-hd-black-w-eu-cable": {
-    "path": "aqua-illumination-prime16-hd-black-w-eu-cable.webp",
-    "sheet": "simple"
+    "path": "1/aqua-illumination-prime16-hd-black-w-eu-cable.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aqua-medic-sulfur": {
-    "path": "aqua-medic-sulfur.webp",
-    "sheet": "simple"
+    "path": "1/aqua-medic-sulfur.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-af-amino-mix-10-ml": {
     "path": "1/aquaforest-af-amino-mix-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-amino-mix-50-ml": {
     "path": "1/aquaforest-af-amino-mix-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-bio-sand-0-5-1-5-mm": {
     "path": "1/aquaforest-af-bio-sand-0-5-1-5-mm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-bio-sand-1-2-mm": {
     "path": "1/aquaforest-af-bio-sand-1-2-mm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-build-10-ml": {
     "path": "1/aquaforest-af-build-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-build-50-ml": {
     "path": "1/aquaforest-af-build-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-carbon-boost-125-ml": {
     "path": "1/aquaforest-af-carbon-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-carbon-boost-2000-ml": {
     "path": "1/aquaforest-af-carbon-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-carbon-boost-250-ml": {
     "path": "1/aquaforest-af-carbon-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-carbon-boost-500-ml": {
     "path": "1/aquaforest-af-carbon-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-clear-boost-125-ml": {
     "path": "1/aquaforest-af-clear-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-clear-boost-250-ml": {
     "path": "1/aquaforest-af-clear-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-clear-boost-500-ml": {
     "path": "1/aquaforest-af-clear-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-energy-10-ml": {
     "path": "1/aquaforest-af-energy-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-energy-50-ml": {
     "path": "1/aquaforest-af-energy-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-frag-rocks-black": {
     "path": "1/aquaforest-af-frag-rocks-black.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-frag-rocks-purple": {
     "path": "1/aquaforest-af-frag-rocks-purple.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-frag-rocks-white": {
     "path": "1/aquaforest-af-frag-rocks-white.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-iron-boost-125-ml": {
     "path": "1/aquaforest-af-iron-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-iron-boost-2000-ml": {
     "path": "1/aquaforest-af-iron-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-iron-boost-250-ml": {
     "path": "1/aquaforest-af-iron-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-iron-boost-500-ml": {
     "path": "1/aquaforest-af-iron-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-k-boost-125-ml": {
     "path": "1/aquaforest-af-k-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-k-boost-2000-ml": {
     "path": "1/aquaforest-af-k-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-k-boost-250-ml": {
     "path": "1/aquaforest-af-k-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-k-boost-500-ml": {
     "path": "1/aquaforest-af-k-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-essence-125-ml": {
     "path": "1/aquaforest-af-life-essence-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-essence-2000-ml": {
     "path": "1/aquaforest-af-life-essence-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-essence-250-ml": {
     "path": "1/aquaforest-af-life-essence-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-essence-500-ml": {
     "path": "1/aquaforest-af-life-essence-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-source-1000-g": {
     "path": "1/aquaforest-af-life-source-1000-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-life-source-330-g": {
     "path": "1/aquaforest-af-life-source-330-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-macro-125-ml": {
     "path": "1/aquaforest-af-macro-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-macro-2000-ml": {
     "path": "1/aquaforest-af-macro-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-macro-250-ml": {
     "path": "1/aquaforest-af-macro-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-macro-500-ml": {
     "path": "1/aquaforest-af-macro-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-marine-mix-m": {
     "path": "1/aquaforest-af-marine-mix-m.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-marine-mix-s": {
     "path": "1/aquaforest-af-marine-mix-s.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-micro-125-ml": {
     "path": "1/aquaforest-af-micro-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-micro-2000-ml": {
     "path": "1/aquaforest-af-micro-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-micro-250-ml": {
     "path": "1/aquaforest-af-micro-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-micro-500-ml": {
     "path": "1/aquaforest-af-micro-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-mini-rocks-black": {
     "path": "1/aquaforest-af-mini-rocks-black.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-mini-rocks-purple": {
     "path": "1/aquaforest-af-mini-rocks-purple.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-mini-rocks-white": {
     "path": "1/aquaforest-af-mini-rocks-white.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-minus-ph-2000-ml": {
     "path": "1/aquaforest-af-minus-ph-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-minus-ph-250-ml": {
     "path": "1/aquaforest-af-minus-ph-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-minus-ph-500-ml": {
     "path": "1/aquaforest-af-minus-ph-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-n-boost-125-ml": {
     "path": "1/aquaforest-af-n-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-n-boost-2000-ml": {
     "path": "1/aquaforest-af-n-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-n-boost-250-ml": {
     "path": "1/aquaforest-af-n-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-n-boost-500-ml": {
     "path": "1/aquaforest-af-n-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-plug-rocks-black": {
     "path": "1/aquaforest-af-plug-rocks-black.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-plug-rocks-purple": {
     "path": "1/aquaforest-af-plug-rocks-purple.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-po4-boost-125-ml": {
     "path": "1/aquaforest-af-po4-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-po4-boost-2000-ml": {
     "path": "1/aquaforest-af-po4-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-po4-boost-250-ml": {
     "path": "1/aquaforest-af-po4-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-po4-boost-500-ml": {
     "path": "1/aquaforest-af-po4-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-power-elixir-1000-l": {
     "path": "1/aquaforest-af-power-elixir-1000-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-power-elixir-200-ml": {
     "path": "1/aquaforest-af-power-elixir-200-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-power-elixir-2000-ml": {
     "path": "1/aquaforest-af-power-elixir-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-protect-dip-10-ml": {
     "path": "1/aquaforest-af-protect-dip-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-protect-dip-50-ml": {
     "path": "1/aquaforest-af-protect-dip-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-purifying-resin-125-ml": {
     "path": "1/aquaforest-af-purifying-resin-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-purifying-resin-250-ml": {
     "path": "1/aquaforest-af-purifying-resin-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-red-boost-125-ml": {
     "path": "1/aquaforest-af-red-boost-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-red-boost-2000-ml": {
     "path": "1/aquaforest-af-red-boost-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-red-boost-250-ml": {
     "path": "1/aquaforest-af-red-boost-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-red-boost-500-ml": {
     "path": "1/aquaforest-af-red-boost-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-remineralizer-125-ml": {
     "path": "1/aquaforest-af-remineralizer-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-remineralizer-250-ml": {
     "path": "1/aquaforest-af-remineralizer-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-remineralizer-500-ml": {
     "path": "1/aquaforest-af-remineralizer-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-arch-10-kg": {
     "path": "1/aquaforest-af-rock-arch-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-arch-18-kg": {
     "path": "1/aquaforest-af-rock-arch-18-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-base-10-kg": {
     "path": "1/aquaforest-af-rock-base-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-base-18-kg": {
     "path": "1/aquaforest-af-rock-base-18-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-mix-10-kg": {
     "path": "1/aquaforest-af-rock-mix-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-mix-18-kg": {
     "path": "1/aquaforest-af-rock-mix-18-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-shelf-10-kg": {
     "path": "1/aquaforest-af-rock-shelf-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-rock-shelf-18-kg": {
     "path": "1/aquaforest-af-rock-shelf-18-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-shrimp-gh-125-ml": {
     "path": "1/aquaforest-af-shrimp-gh-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-shrimp-gh-250-ml": {
     "path": "1/aquaforest-af-shrimp-gh-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-vitality-10-ml": {
     "path": "1/aquaforest-af-vitality-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-vitality-50-ml": {
     "path": "1/aquaforest-af-vitality-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-water-conditioner-125-ml": {
     "path": "1/aquaforest-af-water-conditioner-125-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-water-conditioner-2000-ml": {
     "path": "1/aquaforest-af-water-conditioner-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-water-conditioner-250-ml": {
     "path": "1/aquaforest-af-water-conditioner-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-af-water-conditioner-500-ml": {
     "path": "1/aquaforest-af-water-conditioner-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-afix-glue": {
-    "path": "aquaforest-afix-glue.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-afix-glue.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-aiptasia-shot": {
-    "path": "aquaforest-aiptasia-shot.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-aiptasia-shot.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-air-scrubber": {
-    "path": "aquaforest-air-scrubber.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-air-scrubber.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-air-scrubber-hose": {
-    "path": "aquaforest-air-scrubber-hose.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-air-scrubber-hose.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-air-scrubber-media": {
-    "path": "aquaforest-air-scrubber-media.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-air-scrubber-media.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-alkalinity-test-kit": {
-    "path": "aquaforest-alkalinity-test-kit.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-alkalinity-test-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-anti-phosphate-fresh": {
-    "path": "aquaforest-anti-phosphate-fresh.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-anti-phosphate-fresh.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-barium": {
-    "path": "aquaforest-barium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-barium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-bio-s-10-ml": {
     "path": "1/aquaforest-bio-s-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-bio-s-50-ml": {
     "path": "1/aquaforest-bio-s-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-borium": {
-    "path": "aquaforest-borium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-borium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-calcium-3500-g": {
     "path": "1/aquaforest-calcium-3500-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-calcium-850-g": {
     "path": "1/aquaforest-calcium-850-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-calcium-test-kit": {
-    "path": "aquaforest-calcium-test-kit.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-calcium-test-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-carbon-1000-ml": {
     "path": "1/aquaforest-carbon-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-carbon-250-ml": {
     "path": "1/aquaforest-carbon-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-carbon-5000-ml": {
     "path": "1/aquaforest-carbon-5000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-carbon-fresh": {
-    "path": "aquaforest-carbon-fresh.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-carbon-fresh.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-chromium": {
-    "path": "aquaforest-chromium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-chromium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-cobaltum": {
-    "path": "aquaforest-cobaltum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-cobaltum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-component-3in1-1000-ml": {
     "path": "1/aquaforest-component-3in1-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-3in1-2000-ml": {
     "path": "1/aquaforest-component-3in1-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-3in1-500-ml": {
     "path": "1/aquaforest-component-3in1-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-a-2000-ml": {
     "path": "1/aquaforest-component-a-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-a-250-ml": {
     "path": "1/aquaforest-component-a-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-b-2000-ml": {
     "path": "1/aquaforest-component-b-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-b-250-ml": {
     "path": "1/aquaforest-component-b-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-c-2000-ml": {
     "path": "1/aquaforest-component-c-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-component-c-250-ml": {
     "path": "1/aquaforest-component-c-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-components-pro-3x5l": {
-    "path": "aquaforest-components-pro-3x5l.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-components-pro-3x5l.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-components-strong-4-x-250-ml": {
     "path": "1/aquaforest-components-strong-4-x-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-components-strong-4-x-75-ml": {
     "path": "1/aquaforest-components-strong-4-x-75-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-demineralization-resin": {
-    "path": "aquaforest-demineralization-resin.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-demineralization-resin.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-easy-gloss-200ml": {
-    "path": "aquaforest-easy-gloss-200ml.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-easy-gloss-200ml.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-ferrum": {
-    "path": "aquaforest-ferrum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-ferrum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-fish-v-10-ml": {
     "path": "1/aquaforest-fish-v-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-fish-v-50-ml": {
     "path": "1/aquaforest-fish-v-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-fluorum": {
-    "path": "aquaforest-fluorum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-fluorum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-garlic-essence-10-ml": {
     "path": "1/aquaforest-garlic-essence-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-garlic-essence-50-ml": {
     "path": "1/aquaforest-garlic-essence-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-growth-boost": {
-    "path": "aquaforest-growth-boost.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-growth-boost.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-hose-af110": {
     "path": "1/aquaforest-hose-af110.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-hose-af130": {
     "path": "1/aquaforest-hose-af130.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-hose-af90": {
     "path": "1/aquaforest-hose-af90.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-hybrid-pro-salt-22-kg": {
     "path": "1/aquaforest-hybrid-pro-salt-22-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-hybrid-pro-salt-5-kg": {
     "path": "1/aquaforest-hybrid-pro-salt-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-icp-test-1": {
-    "path": "aquaforest-icp-test-1.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-icp-test-1.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-icp-test-2": {
-    "path": "aquaforest-icp-test-2.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-icp-test-2.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-icp-test-freshwater": {
-    "path": "aquaforest-icp-test-freshwater.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-icp-test-freshwater.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-iodum": {
-    "path": "aquaforest-iodum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-iodum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-kalium": {
-    "path": "aquaforest-kalium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-kalium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-kh-buffer-1200-g": {
     "path": "1/aquaforest-kh-buffer-1200-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-kh-buffer-5000-g": {
     "path": "1/aquaforest-kh-buffer-5000-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-lava-soil-5l": {
-    "path": "aquaforest-lava-soil-5l.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-lava-soil-5l.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-lava-soil-black-5l": {
-    "path": "aquaforest-lava-soil-black-5l.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-lava-soil-black-5l.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-life-bio-fil-1200-ml": {
     "path": "1/aquaforest-life-bio-fil-1200-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-life-bio-fil-250-ml": {
     "path": "1/aquaforest-life-bio-fil-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-life-bio-fil-5000-ml": {
     "path": "1/aquaforest-life-bio-fil-5000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-life-bio-media": {
-    "path": "aquaforest-life-bio-media.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-life-bio-media.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-liquid-artemia": {
-    "path": "aquaforest-liquid-artemia.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-liquid-artemia.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-liquid-mysis": {
-    "path": "aquaforest-liquid-mysis.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-liquid-mysis.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-liquid-rotifers": {
-    "path": "aquaforest-liquid-rotifers.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-liquid-rotifers.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-liquid-vege": {
-    "path": "aquaforest-liquid-vege.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-liquid-vege.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-lithium": {
-    "path": "aquaforest-lithium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-lithium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-lps-food": {
-    "path": "aquaforest-lps-food.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-lps-food.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-magnesium-4000-g": {
     "path": "1/aquaforest-magnesium-4000-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-magnesium-750-g": {
     "path": "1/aquaforest-magnesium-750-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-magnesium-test-kit": {
-    "path": "aquaforest-magnesium-test-kit.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-magnesium-test-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-molybdenum": {
-    "path": "aquaforest-molybdenum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-molybdenum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-multipack-icp-5-1": {
-    "path": "aquaforest-multipack-icp-5-1.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-multipack-icp-5-1.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-natural-substrate-7-5l": {
-    "path": "aquaforest-natural-substrate-7-5l.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-natural-substrate-7-5l.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-new-af-media-reactor-110-mod": {
     "path": "1/aquaforest-new-af-media-reactor-110-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-new-af-media-reactor-130-mod": {
     "path": "1/aquaforest-new-af-media-reactor-130-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-new-af-media-reactor-90-mod": {
     "path": "1/aquaforest-new-af-media-reactor-90-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-niccolum": {
-    "path": "aquaforest-niccolum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-niccolum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-nitraphos-minus-2000-ml": {
     "path": "1/aquaforest-nitraphos-minus-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-nitraphos-minus-250-ml": {
     "path": "1/aquaforest-nitraphos-minus-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-nitrate-test-kit": {
-    "path": "aquaforest-nitrate-test-kit.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-nitrate-test-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-no3-plus-lab": {
-    "path": "aquaforest-no3-plus-lab.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-no3-plus-lab.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-np-pro-10-ml": {
     "path": "1/aquaforest-np-pro-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-np-pro-2000-ml": {
     "path": "1/aquaforest-np-pro-2000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-np-pro-50-ml": {
     "path": "1/aquaforest-np-pro-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-phosphate-minus-1000-ml": {
     "path": "1/aquaforest-phosphate-minus-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-phosphate-minus-250-ml": {
     "path": "1/aquaforest-phosphate-minus-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-phosphate-minus-5000-ml": {
     "path": "1/aquaforest-phosphate-minus-5000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-phosphate-test-kit": {
-    "path": "aquaforest-phosphate-test-kit.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-phosphate-test-kit.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-phyto-mix": {
-    "path": "aquaforest-phyto-mix.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-phyto-mix.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-plankton-elixir": {
-    "path": "aquaforest-plankton-elixir.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-plankton-elixir.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-plug-rocks-purple-xl": {
-    "path": "aquaforest-plug-rocks-purple-xl.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-plug-rocks-purple-xl.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-plug-rocks-white": {
-    "path": "aquaforest-plug-rocks-white.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-plug-rocks-white.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-po4-plus-lab": {
-    "path": "aquaforest-po4-plus-lab.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-po4-plus-lab.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-poly-glue": {
-    "path": "aquaforest-poly-glue.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-poly-glue.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-polyp-up": {
-    "path": "aquaforest-polyp-up.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-polyp-up.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-pro-bio-f-25g": {
-    "path": "aquaforest-pro-bio-f-25g.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-pro-bio-f-25g.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-pro-bio-s-10-ml": {
     "path": "1/aquaforest-pro-bio-s-10-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-pro-bio-s-50-ml": {
     "path": "1/aquaforest-pro-bio-s-50-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-pure-food": {
-    "path": "aquaforest-pure-food.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-pure-food.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-purify-50-ml": {
-    "path": "aquaforest-purify-50-ml.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-purify-50-ml.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-reef-mineral-salt-5000-g": {
     "path": "1/aquaforest-reef-mineral-salt-5000-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-mineral-salt-800-g": {
     "path": "1/aquaforest-reef-mineral-salt-800-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-10-kg": {
     "path": "1/aquaforest-reef-salt-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-19-kg": {
     "path": "1/aquaforest-reef-salt-19-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-2-kg": {
     "path": "1/aquaforest-reef-salt-2-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-20-kg": {
     "path": "1/aquaforest-reef-salt-20-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-22-kg": {
     "path": "1/aquaforest-reef-salt-22-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-25-kg": {
     "path": "1/aquaforest-reef-salt-25-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-4-kg": {
     "path": "1/aquaforest-reef-salt-4-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-plus-22-kg": {
     "path": "1/aquaforest-reef-salt-plus-22-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-reef-salt-plus-5-kg": {
     "path": "1/aquaforest-reef-salt-plus-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-sea-salt-22-kg": {
     "path": "1/aquaforest-sea-salt-22-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-sea-salt-25-kg": {
     "path": "1/aquaforest-sea-salt-25-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-sea-salt-7-5-kg": {
     "path": "1/aquaforest-sea-salt-7-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-stone-fix-1500-g": {
     "path": "1/aquaforest-stone-fix-1500-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-stone-fix-250-g": {
     "path": "1/aquaforest-stone-fix-250-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-stone-fix-6-kg": {
     "path": "1/aquaforest-stone-fix-6-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-strontium": {
-    "path": "aquaforest-strontium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-strontium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-sulphur": {
-    "path": "aquaforest-sulphur.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-sulphur.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-test-pro-pack-ca-kh-mg": {
-    "path": "aquaforest-test-pro-pack-ca-kh-mg.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-test-pro-pack-ca-kh-mg.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-vanadium": {
-    "path": "aquaforest-vanadium.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-vanadium.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-zeo-mix-1000-ml": {
     "path": "1/aquaforest-zeo-mix-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-zeo-mix-5000-ml": {
     "path": "1/aquaforest-zeo-mix-5000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "aquaforest-zeolith-fresh": {
-    "path": "aquaforest-zeolith-fresh.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-zeolith-fresh.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-zincum": {
-    "path": "aquaforest-zincum.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-zincum.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "aquaforest-zoa-food": {
-    "path": "aquaforest-zoa-food.webp",
-    "sheet": "simple"
+    "path": "1/aquaforest-zoa-food.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-aip-away": {
-    "path": "arka-aip-away.webp",
-    "sheet": "simple"
+    "path": "1/arka-aip-away.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-algaway-118-ml": {
     "path": "1/arka-algaway-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-algaway-473-ml": {
     "path": "1/arka-algaway-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-algaway-5-l": {
     "path": "1/arka-algaway-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-all-in-one-118-ml": {
     "path": "1/arka-all-in-one-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-all-in-one-236-ml": {
     "path": "1/arka-all-in-one-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-all-in-one-473-ml": {
     "path": "1/arka-all-in-one-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-all-in-one-5-l": {
     "path": "1/arka-all-in-one-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-balance-118-ml": {
     "path": "1/arka-aqua-balance-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-balance-236-ml": {
     "path": "1/arka-aqua-balance-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-balance-473-ml": {
     "path": "1/arka-aqua-balance-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-balance-5-l": {
     "path": "1/arka-aqua-balance-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-pure-118-ml": {
     "path": "1/arka-aqua-pure-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-pure-236-ml": {
     "path": "1/arka-aqua-pure-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-pure-473-ml": {
     "path": "1/arka-aqua-pure-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-aqua-pure-5-l": {
     "path": "1/arka-aqua-pure-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-arka-marine-gran-250-ml": {
     "path": "1/arka-arka-marine-gran-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-arka-marine-gran-500-ml": {
     "path": "1/arka-arka-marine-gran-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-artemia": {
-    "path": "arka-artemia.webp",
-    "sheet": "simple"
+    "path": "1/arka-artemia.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-artemiss-salt-freshwater-118-ml": {
     "path": "1/arka-artemiss-salt-freshwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-artemiss-salt-freshwater-236-ml": {
     "path": "1/arka-artemiss-salt-freshwater-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-artemiss-salt-freshwater-473-ml": {
     "path": "1/arka-artemiss-salt-freshwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-artemiss-salt-freshwater-5-l": {
     "path": "1/arka-artemiss-salt-freshwater-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-1": {
-    "path": "arka-basic-1.webp",
-    "sheet": "simple"
+    "path": "1/arka-basic-1.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-basic-2": {
-    "path": "arka-basic-2.webp",
-    "sheet": "simple"
+    "path": "1/arka-basic-2.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-basic-3": {
-    "path": "arka-basic-3.webp",
-    "sheet": "simple"
+    "path": "1/arka-basic-3.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-basic-k-118-ml": {
     "path": "1/arka-basic-k-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-k-473-ml": {
     "path": "1/arka-basic-k-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-n-118-ml": {
     "path": "1/arka-basic-n-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-n-473-ml": {
     "path": "1/arka-basic-n-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-n-5-l": {
     "path": "1/arka-basic-n-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-p-118-ml": {
     "path": "1/arka-basic-p-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-p-473-ml": {
     "path": "1/arka-basic-p-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-basic-p-5-l": {
     "path": "1/arka-basic-p-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-bio-co-118-ml": {
     "path": "1/arka-bio-co-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-bio-co-236-ml": {
     "path": "1/arka-bio-co-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-bio-co-473-ml": {
     "path": "1/arka-bio-co-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-calcium-118-ml": {
     "path": "1/arka-calcium-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-calcium-473-ml": {
     "path": "1/arka-calcium-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-carbopure-11-5-kg": {
     "path": "1/arka-carbopure-11-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-carbopure-2-9-kg": {
     "path": "1/arka-carbopure-2-9-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-carbopure-243-g": {
     "path": "1/arka-carbopure-243-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-carbopure-486-g": {
     "path": "1/arka-carbopure-486-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-casuarina-cones-i-arke-1-3cm-50-kom": {
-    "path": "arka-casuarina-cones-i-arke-1-3cm-50-kom.webp",
-    "sheet": "simple"
+    "path": "1/arka-casuarina-cones-i-arke-1-3cm-50-kom.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-catappa-leaves-10-kom-l": {
     "path": "1/arka-catappa-leaves-10-kom-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-catappa-leaves-10-kom-m": {
     "path": "1/arka-catappa-leaves-10-kom-m.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-catappa-leaves-10-kom-nano": {
     "path": "1/arka-catappa-leaves-10-kom-nano.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-catappa-leaves-10-kom-s": {
     "path": "1/arka-catappa-leaves-10-kom-s.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-complete-118-ml": {
     "path": "1/arka-complete-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-complete-236-ml": {
     "path": "1/arka-complete-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-complete-473-ml": {
     "path": "1/arka-complete-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-complete-5-l": {
     "path": "1/arka-complete-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coral-active-118-ml": {
     "path": "1/arka-coral-active-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coral-active-236-ml": {
     "path": "1/arka-coral-active-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coral-active-473-ml": {
     "path": "1/arka-coral-active-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coral-active-5-l": {
     "path": "1/arka-coral-active-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coral-food-lps": {
-    "path": "arka-coral-food-lps.webp",
-    "sheet": "simple"
+    "path": "1/arka-coral-food-lps.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coral-food-soft": {
-    "path": "arka-coral-food-soft.webp",
-    "sheet": "simple"
+    "path": "1/arka-coral-food-soft.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coral-food-sps": {
-    "path": "arka-coral-food-sps.webp",
-    "sheet": "simple"
+    "path": "1/arka-coral-food-sps.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coralline-118-ml": {
     "path": "1/arka-coralline-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coralline-236-ml": {
     "path": "1/arka-coralline-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coralline-473-ml": {
     "path": "1/arka-coralline-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coralline-5-l": {
     "path": "1/arka-coralline-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-coralscaper": {
-    "path": "arka-coralscaper.webp",
-    "sheet": "simple"
+    "path": "1/arka-coralscaper.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coralscaper-epoxy": {
-    "path": "arka-coralscaper-epoxy.webp",
-    "sheet": "simple"
+    "path": "1/arka-coralscaper-epoxy.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coralscaper-gel": {
-    "path": "arka-coralscaper-gel.webp",
-    "sheet": "simple"
+    "path": "1/arka-coralscaper-gel.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-coralscaper-liquid": {
-    "path": "arka-coralscaper-liquid.webp",
-    "sheet": "simple"
+    "path": "1/arka-coralscaper-liquid.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-dadap-leaves-7-13cm-10-stk": {
-    "path": "arka-dadap-leaves-7-13cm-10-stk.webp",
-    "sheet": "simple"
+    "path": "1/arka-dadap-leaves-7-13cm-10-stk.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-elements-118-ml": {
     "path": "1/arka-elements-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-elements-236-ml": {
     "path": "1/arka-elements-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-elements-473-ml": {
     "path": "1/arka-elements-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-filtermedia-bag-1000-ml": {
     "path": "1/arka-filtermedia-bag-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-filtermedia-bag-500-ml": {
     "path": "1/arka-filtermedia-bag-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-garlic": {
-    "path": "arka-garlic.webp",
-    "sheet": "simple"
+    "path": "1/arka-garlic.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-gel-filter-118-ml": {
     "path": "1/arka-gel-filter-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-gel-filter-236-ml": {
     "path": "1/arka-gel-filter-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-gel-filter-473-ml": {
     "path": "1/arka-gel-filter-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-herbtana-118-ml": {
     "path": "1/arka-herbtana-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-herbtana-236-ml": {
     "path": "1/arka-herbtana-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-herbtana-473-ml": {
     "path": "1/arka-herbtana-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-herbtana-5-l": {
     "path": "1/arka-herbtana-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-in-line-tds-meter": {
-    "path": "arka-in-line-tds-meter.webp",
-    "sheet": "simple"
+    "path": "1/arka-in-line-tds-meter.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-iodide-bromide-118-ml": {
     "path": "1/arka-iodide-bromide-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-iodide-bromide-236-ml": {
     "path": "1/arka-iodide-bromide-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-iodide-bromide-473-ml": {
     "path": "1/arka-iodide-bromide-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-kh-booster-1000-g": {
     "path": "1/arka-kh-booster-1000-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-kh-booster-250-g": {
     "path": "1/arka-kh-booster-250-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-kh-booster-500-g": {
     "path": "1/arka-kh-booster-500-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-magnesium-236-ml": {
     "path": "1/arka-magnesium-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-magnesium-473-ml": {
     "path": "1/arka-magnesium-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-marine-flakes-1000-ml": {
     "path": "1/arka-marine-flakes-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-marine-flakes-250-ml": {
     "path": "1/arka-marine-flakes-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-marine-flakes-500-ml": {
     "path": "1/arka-marine-flakes-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-marine-gran-250-ml": {
     "path": "1/arka-marine-gran-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-marine-gran-500-ml": {
     "path": "1/arka-marine-gran-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-multifunction-pipette": {
-    "path": "arka-multifunction-pipette.webp",
-    "sheet": "simple"
+    "path": "1/arka-multifunction-pipette.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua-1900-c1": {
     "path": "1/arka-myaqua-1900-c1.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-1900-c2": {
     "path": "1/arka-myaqua-1900-c2.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-300-ml": {
     "path": "1/arka-myaqua-300-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-3800": {
-    "path": "arka-myaqua-3800.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua-3800.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua-400": {
-    "path": "arka-myaqua-400.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua-400.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua-400-c1": {
     "path": "1/arka-myaqua-400-c1.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-400-c2": {
     "path": "1/arka-myaqua-400-c2.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-500-ml": {
     "path": "1/arka-myaqua-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-multifilter": {
-    "path": "arka-myaqua-multifilter.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua-multifilter.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua-multifilter-4-l": {
-    "path": "arka-myaqua-multifilter-4-l.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua-multifilter-4-l.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua-myaqua-190": {
     "path": "1/arka-myaqua-myaqua-190.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-myaqua-1900": {
     "path": "1/arka-myaqua-myaqua-1900.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-myaqua-380": {
     "path": "1/arka-myaqua-myaqua-380.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-myaqua-3800": {
     "path": "1/arka-myaqua-myaqua-3800.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-myaqua-400": {
     "path": "1/arka-myaqua-myaqua-400.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myaqua-ph-tds-ec-meter": {
-    "path": "arka-myaqua-ph-tds-ec-meter.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua-ph-tds-ec-meter.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua190-380": {
-    "path": "arka-myaqua190-380.webp",
-    "sheet": "simple"
+    "path": "1/arka-myaqua190-380.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaqua1900": {
     "path": "1/arka-myaqua1900.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myaua1900": {
     "path": "arka-myaua1900.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-mybetta-care-bettacare-118-ml": {
     "path": "1/arka-mybetta-care-bettacare-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-mybetta-care-bettacare-236-ml": {
     "path": "1/arka-mybetta-care-bettacare-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-mybetta-water-118-ml": {
     "path": "1/arka-mybetta-water-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-mybetta-water-236-ml": {
     "path": "1/arka-mybetta-water-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myreef": {
-    "path": "arka-myreef.webp",
-    "sheet": "simple"
+    "path": "1/arka-myreef.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-myreef-coralplugs-round-21-mm": {
     "path": "1/arka-myreef-coralplugs-round-21-mm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myreef-coralplugs-round-30-mm": {
     "path": "1/arka-myreef-coralplugs-round-30-mm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myreef-frag-rack-deck-with-magnet-16-mod": {
     "path": "1/arka-myreef-frag-rack-deck-with-magnet-16-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myreef-frag-rack-deck-with-magnet-32-mod": {
     "path": "1/arka-myreef-frag-rack-deck-with-magnet-32-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myreef-frag-rack-deck-with-magnet-8-mod": {
     "path": "1/arka-myreef-frag-rack-deck-with-magnet-8-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myshrimp-aqua-118-ml": {
     "path": "1/arka-myshrimp-aqua-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myshrimp-aqua-236-ml": {
     "path": "1/arka-myshrimp-aqua-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myshrimp-care-118-ml": {
     "path": "1/arka-myshrimp-care-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-myshrimp-care-236-ml": {
     "path": "1/arka-myshrimp-care-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nite-out-ii-118-ml": {
     "path": "1/arka-nite-out-ii-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nite-out-ii-236-ml": {
     "path": "1/arka-nite-out-ii-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nite-out-ii-473-ml": {
     "path": "1/arka-nite-out-ii-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nite-out-ii-5-l": {
     "path": "1/arka-nite-out-ii-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nopo-control-118-ml": {
     "path": "1/arka-nopo-control-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nopo-control-473-ml": {
     "path": "1/arka-nopo-control-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-nopo-control-5-l": {
     "path": "1/arka-nopo-control-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-organic-active-salt-10-kg": {
     "path": "1/arka-organic-active-salt-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-organic-active-salt-20-kg": {
     "path": "1/arka-organic-active-salt-20-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-pee-gone-100-ml": {
     "path": "1/arka-pee-gone-100-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-pee-gone-750-ml": {
     "path": "1/arka-pee-gone-750-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph": {
-    "path": "arka-ph.webp",
-    "sheet": "simple"
+    "path": "1/arka-ph.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-ph-decrease-freshwater-118-ml": {
     "path": "1/arka-ph-decrease-freshwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-decrease-freshwater-236-ml": {
     "path": "1/arka-ph-decrease-freshwater-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-decrease-freshwater-473-ml": {
     "path": "1/arka-ph-decrease-freshwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-increase-freshwater-118-ml": {
     "path": "1/arka-ph-increase-freshwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-increase-freshwater-236-ml": {
     "path": "1/arka-ph-increase-freshwater-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-increase-freshwater-473-ml": {
     "path": "1/arka-ph-increase-freshwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-increase-saltwater-118-ml": {
     "path": "1/arka-ph-increase-saltwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-increase-saltwater-473-ml": {
     "path": "1/arka-ph-increase-saltwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-ph-meter": {
-    "path": "arka-ph-meter.webp",
-    "sheet": "simple"
+    "path": "1/arka-ph-meter.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-phos-out-4-118-ml": {
     "path": "1/arka-phos-out-4-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-236-ml": {
     "path": "1/arka-phos-out-4-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-473-ml": {
     "path": "1/arka-phos-out-4-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-5-l": {
     "path": "1/arka-phos-out-4-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-granule-2-7-kg": {
     "path": "1/arka-phos-out-4-granule-2-7-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-granule-275-g": {
     "path": "1/arka-phos-out-4-granule-275-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phos-out-4-granule-550-g": {
     "path": "1/arka-phos-out-4-granule-550-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phyto-plus-118-ml": {
     "path": "1/arka-phyto-plus-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phyto-plus-236-ml": {
     "path": "1/arka-phyto-plus-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-phyto-plus-473-ml": {
     "path": "1/arka-phyto-plus-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-fe-118-ml": {
     "path": "1/arka-plants-fe-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-fe-236-ml": {
     "path": "1/arka-plants-fe-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-fe-473-ml": {
     "path": "1/arka-plants-fe-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-fe-5-l": {
     "path": "1/arka-plants-fe-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-green-118-ml": {
     "path": "1/arka-plants-green-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-green-236-ml": {
     "path": "1/arka-plants-green-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-green-473-ml": {
     "path": "1/arka-plants-green-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-green-5-l": {
     "path": "1/arka-plants-green-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-k-118-ml": {
     "path": "1/arka-plants-k-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-k-236-ml": {
     "path": "1/arka-plants-k-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-k-473-ml": {
     "path": "1/arka-plants-k-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-n-118-ml": {
     "path": "1/arka-plants-n-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-n-236-ml": {
     "path": "1/arka-plants-n-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-n-473-ml": {
     "path": "1/arka-plants-n-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-npk-118-ml": {
     "path": "1/arka-plants-npk-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-npk-236-ml": {
     "path": "1/arka-plants-npk-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-npk-473-ml": {
     "path": "1/arka-plants-npk-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-p-118-ml": {
     "path": "1/arka-plants-p-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-p-236-ml": {
     "path": "1/arka-plants-p-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plants-p-473-ml": {
     "path": "1/arka-plants-p-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-plantscaper": {
-    "path": "arka-plantscaper.webp",
-    "sheet": "simple"
+    "path": "1/arka-plantscaper.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-plantscaper-gel": {
-    "path": "arka-plantscaper-gel.webp",
-    "sheet": "simple"
+    "path": "1/arka-plantscaper-gel.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-plantscaper-liquid": {
-    "path": "arka-plantscaper-liquid.webp",
-    "sheet": "simple"
+    "path": "1/arka-plantscaper-liquid.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-plantscaper-ultra-liquid": {
-    "path": "arka-plantscaper-ultra-liquid.webp",
-    "sheet": "simple"
+    "path": "1/arka-plantscaper-ultra-liquid.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-polyglue": {
-    "path": "arka-polyglue.webp",
-    "sheet": "simple"
+    "path": "1/arka-polyglue.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-premium-reef-salt-10-kg": {
     "path": "1/arka-premium-reef-salt-10-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-premium-reef-salt-20-kg": {
     "path": "1/arka-premium-reef-salt-20-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-reefscaper-450-g": {
     "path": "1/arka-reefscaper-450-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-reefscaper-5-kg": {
     "path": "1/arka-reefscaper-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-reefscaper-850-g": {
     "path": "1/arka-reefscaper-850-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-refractometer-incl-led": {
-    "path": "arka-refractometer-incl-led.webp",
-    "sheet": "simple"
+    "path": "1/arka-refractometer-incl-led.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-resin-pure-1000-ml": {
     "path": "1/arka-resin-pure-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-resin-pure-20-l": {
     "path": "1/arka-resin-pure-20-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-resin-pure-4-l": {
     "path": "1/arka-resin-pure-4-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-shrimp-food-150ml-50-g": {
-    "path": "arka-shrimp-food-150ml-50-g.webp",
-    "sheet": "simple"
+    "path": "1/arka-shrimp-food-150ml-50-g.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-sili-out-2-13-7-kg": {
     "path": "1/arka-sili-out-2-13-7-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-sili-out-2-3-5-kg": {
     "path": "1/arka-sili-out-2-3-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-sili-out-2-350-g": {
     "path": "1/arka-sili-out-2-350-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-sili-out-2-700-g": {
     "path": "1/arka-sili-out-2-700-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-special-blend-118-ml": {
     "path": "1/arka-special-blend-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-special-blend-236-ml": {
     "path": "1/arka-special-blend-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-special-blend-3-79-l": {
     "path": "1/arka-special-blend-3-79-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-special-blend-473-ml": {
     "path": "1/arka-special-blend-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-strontium-118-ml": {
     "path": "1/arka-strontium-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-strontium-236-ml": {
     "path": "1/arka-strontium-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-strontium-473-ml": {
     "path": "1/arka-strontium-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-strontium-5-l": {
     "path": "1/arka-strontium-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-substrate-cleaner-118-ml": {
     "path": "1/arka-substrate-cleaner-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-substrate-cleaner-236-ml": {
     "path": "1/arka-substrate-cleaner-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-substrate-cleaner-473-ml": {
     "path": "1/arka-substrate-cleaner-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-substrate-cleaner-5-l": {
     "path": "1/arka-substrate-cleaner-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-tds-ec-meter": {
-    "path": "arka-tds-ec-meter.webp",
-    "sheet": "simple"
+    "path": "1/arka-tds-ec-meter.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-therap-118-ml": {
     "path": "1/arka-therap-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-therap-236-ml": {
     "path": "1/arka-therap-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-therap-3-79-l": {
     "path": "1/arka-therap-3-79-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-therap-473-ml": {
     "path": "1/arka-therap-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-universal-pipette-10-ml-2-kom": {
     "path": "1/arka-universal-pipette-10-ml-2-kom.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-universal-pipette-3-ml-5-kom": {
     "path": "1/arka-universal-pipette-3-ml-5-kom.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-flakes-1000-ml": {
     "path": "1/arka-vita-flakes-1000-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-flakes-250-ml": {
     "path": "1/arka-vita-flakes-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-flakes-500-ml": {
     "path": "1/arka-vita-flakes-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-gran-250-ml": {
     "path": "1/arka-vita-gran-250-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-gran-500-ml": {
     "path": "1/arka-vita-gran-500-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vita-pleco": {
-    "path": "arka-vita-pleco.webp",
-    "sheet": "simple"
+    "path": "1/arka-vita-pleco.webp",
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "arka-vitamins-freshwater-118-ml": {
     "path": "1/arka-vitamins-freshwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-freshwater-236-ml": {
     "path": "1/arka-vitamins-freshwater-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-freshwater-473-ml": {
     "path": "1/arka-vitamins-freshwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-saltwater-118-ml": {
     "path": "1/arka-vitamins-saltwater-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-saltwater-236-ml": {
     "path": "1/arka-vitamins-saltwater-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-saltwater-473-ml": {
     "path": "1/arka-vitamins-saltwater-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-vitamins-saltwater-5-l": {
     "path": "1/arka-vitamins-saltwater-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-xtreme-118-ml": {
     "path": "1/arka-xtreme-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-xtreme-236-ml": {
     "path": "1/arka-xtreme-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-xtreme-473-ml": {
     "path": "1/arka-xtreme-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-xtreme-5-l": {
     "path": "1/arka-xtreme-5-l.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-14-kg": {
     "path": "1/arka-zeopure-14-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-3-5-kg": {
     "path": "1/arka-zeopure-3-5-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-425-g": {
     "path": "1/arka-zeopure-425-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-850-g": {
     "path": "1/arka-zeopure-850-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-powder-125-g": {
     "path": "1/arka-zeopure-powder-125-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-powder-2-9-kg": {
     "path": "1/arka-zeopure-powder-2-9-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zeopure-powder-250-g": {
     "path": "1/arka-zeopure-powder-250-g.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zoo-plus-118-ml": {
     "path": "1/arka-zoo-plus-118-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zoo-plus-236-ml": {
     "path": "1/arka-zoo-plus-236-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "arka-zoo-plus-473-ml": {
     "path": "1/arka-zoo-plus-473-ml.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "atomic-torch-2-glave": {
     "path": "1/atomic-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "atomic-torch-3-glave": {
     "path": "1/atomic-torch-3-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "australia-ultra-red-green-center": {
     "path": "1/australia-ultra-red-green-center.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "basilisk-eye": {
     "path": "1/basilisk-eye.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "berry-smoothie-4-cm": {
     "path": "1/berry-smoothie-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "berry-smoothie-kolonija": {
     "path": "1/berry-smoothie-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bi-colour-blood-moon-torch-1-glava": {
     "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bi-colour-blood-moon-torch-2-glave": {
     "path": "1/bi-colour-blood-moon-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bicolor-brain-coral": {
     "path": "1/bicolor-brain-coral.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "bicolor-branching-hammer-2-glave": {
     "path": "1/bicolor-branching-hammer-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bicolor-branching-hammer-4-glave": {
     "path": "1/bicolor-branching-hammer-4-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "black-cherry-ice-3-cm": {
     "path": "1/black-cherry-ice-3-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "black-cherry-ice-kolonija": {
     "path": "1/black-cherry-ice-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "black-hole-sun": {
     "path": "1/black-hole-sun.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "blue-treasure-aquaculture-salt-25kg": {
     "path": "blue-treasure-aquaculture-salt-25kg.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "blue-treasure-aquarium-reef-salt-25-kg": {
     "path": "1/blue-treasure-aquarium-reef-salt-25-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "blue-treasure-aquarium-reef-salt-6-7-kg": {
     "path": "1/blue-treasure-aquarium-reef-salt-6-7-kg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "bubblegum-frost-hammer-1-glava": {
     "path": "1/bubblegum-frost-hammer-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bubblegum-frost-hammer-kolonija": {
     "path": "1/bubblegum-frost-hammer-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "bubblegum-frosting": {
     "path": "1/bubblegum-frosting.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "candy-cane-blue-1-glava": {
     "path": "1/candy-cane-blue-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "candy-cane-blue-2-glave": {
     "path": "1/candy-cane-blue-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "candy-cane-blue-3-glave": {
     "path": "1/candy-cane-blue-3-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "candy-cane-neon-green-2-glave": {
     "path": "1/candy-cane-neon-green-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "candy-cane-neon-green-3-glave": {
     "path": "1/candy-cane-neon-green-3-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "carnival-ride-acanthastrea": {
     "path": "1/carnival-ride-acanthastrea.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "christmas": {
     "path": "1/christmas.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "cotton-candy-3-cm": {
     "path": "1/cotton-candy-3-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "cotton-candy-kolonija": {
     "path": "1/cotton-candy-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "cotton-candy-torch-1-glava": {
     "path": "1/cotton-candy-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "cotton-candy-torch-2-glave": {
     "path": "1/cotton-candy-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "court-jester-maze-coral": {
     "path": "1/court-jester-maze-coral.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "crimson-tide-acanthastrea": {
     "path": "1/crimson-tide-acanthastrea.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "death-blow-acanthastrea": {
     "path": "1/death-blow-acanthastrea.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "dos-quietdrive": {
     "path": "1/dos-quietdrive.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "dragon-s-soul-torch-1-glava": {
     "path": "1/dragon-s-soul-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "dragon-s-soul-torch-2-glave": {
     "path": "1/dragon-s-soul-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ecotech-hanging-kit-for-radion": {
     "path": "ecotech-hanging-kit-for-radion.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-radion-g6pro-xr15": {
     "path": "1/ecotech-radion-g6pro-xr15.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-radion-g6pro-xr30": {
     "path": "1/ecotech-radion-g6pro-xr30.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-arms-kit": {
     "path": "ecotech-rms-arms-kit.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-rms-hanging-kit": {
     "path": "ecotech-rms-hanging-kit.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-rms-slide-xr15g5": {
     "path": "1/ecotech-rms-slide-xr15g5.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-slide-xr30g5": {
     "path": "1/ecotech-rms-slide-xr30g5.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-tank-mount-system-xr15g5": {
     "path": "1/ecotech-rms-tank-mount-system-xr15g5.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-tank-mount-system-xr30g5": {
     "path": "1/ecotech-rms-tank-mount-system-xr30g5.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-track-100-cm": {
     "path": "1/ecotech-rms-track-100-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-track-127-cm": {
     "path": "1/ecotech-rms-track-127-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-rms-track-150-cm": {
     "path": "1/ecotech-rms-track-150-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-vectra-l2-centrifugal-pump-mobius-w-eu-cable": {
     "path": "ecotech-vectra-l2-centrifugal-pump-mobius-w-eu-cable.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-vectra-m2-centrifugal-pump-mobius-w-eu-cable": {
     "path": "1/ecotech-vectra-m2-centrifugal-pump-mobius-w-eu-cable.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-vectra-s2-centrifugal-pump-mobius-w-eu-cable": {
     "path": "ecotech-vectra-s2-centrifugal-pump-mobius-w-eu-cable.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-versa-dosing-pump": {
     "path": "ecotech-versa-dosing-pump.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "ecotech-vortech-propeller-pump-mobius-mp10": {
     "path": "1/ecotech-vortech-propeller-pump-mobius-mp10.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-vortech-propeller-pump-mobius-mp40": {
     "path": "1/ecotech-vortech-propeller-pump-mobius-mp40.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ecotech-vortech-propeller-pump-mobius-mp60": {
     "path": "1/ecotech-vortech-propeller-pump-mobius-mp60.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "electric-watermelon-3-cm": {
     "path": "1/electric-watermelon-3-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "electric-watermelon-kolonija": {
     "path": "1/electric-watermelon-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "favia-of-the-gods": {
     "path": "1/favia-of-the-gods.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "firefly-3-cm": {
     "path": "1/firefly-3-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "firefly-kolonija": {
     "path": "1/firefly-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "flipper-flip-max": {
     "path": "1/flipper-flip-max.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "flipper-flip-nano": {
     "path": "1/flipper-flip-nano.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "flipper-flip-pico": {
     "path": "1/flipper-flip-pico.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "flipper-flip-std": {
     "path": "1/flipper-flip-std.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "gold-nugget-1-glava": {
     "path": "1/gold-nugget-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "gold-nugget-2-glave": {
     "path": "1/gold-nugget-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "gold-nugget-3-glave": {
     "path": "1/gold-nugget-3-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "gold-nugget-4-glave": {
     "path": "1/gold-nugget-4-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "gold-nugget-hologram-hammer-1-glava": {
     "path": "1/gold-nugget-hologram-hammer-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "gold-nugget-hologram-hammer-kolonija": {
     "path": "1/gold-nugget-hologram-hammer-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "goldfinger-torch-1-glava": {
     "path": "1/goldfinger-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "goldfinger-torch-2-glave": {
     "path": "1/goldfinger-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-branching-frogspawn-1-glava": {
     "path": "1/green-branching-frogspawn-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-branching-frogspawn-kolonija": {
     "path": "1/green-branching-frogspawn-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-carpet": {
     "path": "1/green-carpet.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "green-heart-ultra-red-4-cm": {
     "path": "1/green-heart-ultra-red-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-heart-ultra-red-kolonija": {
     "path": "1/green-heart-ultra-red-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-splatter-hammer-1-glava": {
     "path": "1/green-splatter-hammer-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "green-splatter-hammer-kolonija": {
     "path": "1/green-splatter-hammer-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "hardscape-relief-stone": {
     "path": "1/hardscape-relief-stone.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "hardscape-tiger-wood": {
     "path": "1/hardscape-tiger-wood.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "hardscape-turly-stone": {
     "path": "1/hardscape-turly-stone.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "hardscape-wind-stone": {
     "path": "1/hardscape-wind-stone.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "hardscape-zeo-lina-stone": {
     "path": "1/hardscape-zeo-lina-stone.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "hellfire-torch-1-glava": {
     "path": "1/hellfire-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "hellfire-torch-2-glave": {
     "path": "1/hellfire-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "imperial-jade": {
     "path": "1/imperial-jade.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "indonesian-sun-god-torch-1-glava": {
     "path": "1/indonesian-sun-god-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "indonesian-sun-god-torch-2-glave": {
     "path": "1/indonesian-sun-god-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "jebao-dcp-3500-mod": {
     "path": "1/jebao-dcp-3500-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-dcp-5000-mod": {
     "path": "1/jebao-dcp-5000-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-dcp-8500-mod": {
     "path": "1/jebao-dcp-8500-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-md-4-4": {
     "path": "jebao-md-4-4.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "jebao-mlw-10-mod": {
     "path": "1/jebao-mlw-10-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-mlw-20-mod": {
     "path": "1/jebao-mlw-20-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-mlw-30-mod": {
     "path": "1/jebao-mlw-30-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-sow-15-mod": {
     "path": "1/jebao-sow-15-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-sow-4-mod": {
     "path": "1/jebao-sow-4-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "jebao-sow-8-mod": {
     "path": "1/jebao-sow-8-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "joker": {
     "path": "1/joker.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "kamoer-kamoer-ato-one-2-ro-eu": {
     "path": "1/kamoer-kamoer-ato-one-2-ro-eu.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "kamoer-kamoer-ato-one-2-se-eu": {
     "path": "1/kamoer-kamoer-ato-one-2-se-eu.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "kamoer-kamoer-ph-pen": {
     "path": "kamoer-kamoer-ph-pen.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "kamoer-kamoer-x1-pro-2-eu": {
     "path": "kamoer-kamoer-x1-pro-2-eu.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "kamoer-kamoer-x1-pro-t2": {
     "path": "kamoer-kamoer-x1-pro-t2.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "kamoer-kamoer-x2sr-eu": {
     "path": "kamoer-kamoer-x2sr-eu.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "kung-pao": {
     "path": "1/kung-pao.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "lan-shan-w1-10": {
     "path": "lan-shan-w1-10.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "lavender-frost-4-cm": {
     "path": "1/lavender-frost-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "lavender-frost-kolonija": {
     "path": "1/lavender-frost-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "magfloat-magfloat-100458-mod": {
     "path": "1/magfloat-magfloat-100458-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "magfloat-magfloat-100480-mod": {
     "path": "1/magfloat-magfloat-100480-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "magfloat-magfloat-100494-mod": {
     "path": "1/magfloat-magfloat-100494-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "magfloat-magfloat-100497-mod": {
     "path": "1/magfloat-magfloat-100497-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-acrylic-dosing-container": {
     "path": "mantis-acrylic-dosing-container.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-bio-block": {
     "path": "mantis-bio-block.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-bio-spheres-1kg-box": {
     "path": "mantis-bio-spheres-1kg-box.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-ceramic-frag": {
     "path": "mantis-ceramic-frag.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-coral-lens": {
     "path": "mantis-coral-lens.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-magnet-viewer": {
     "path": "mantis-magnet-viewer.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "mantis-rollermat-1200-mod": {
     "path": "1/mantis-rollermat-1200-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-rollermat-3000-mod": {
     "path": "1/mantis-rollermat-3000-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-rollermat-600-mod": {
     "path": "1/mantis-rollermat-600-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-rollermat-fleecement-1200-mod": {
     "path": "1/mantis-rollermat-fleecement-1200-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-rollermat-fleecement-3000-mod": {
     "path": "1/mantis-rollermat-fleecement-3000-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-rollermat-fleecement-600-mod": {
     "path": "1/mantis-rollermat-fleecement-600-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-tornado-protein-skimer-sa-dc-pumpom-120-mod": {
     "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-120-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-tornado-protein-skimer-sa-dc-pumpom-150-mod": {
     "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-150-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod": {
     "path": "1/mantis-tornado-protein-skimer-sa-dc-pumpom-180-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "matrix-glitch": {
     "path": "1/matrix-glitch.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "maxspect-ad600": {
     "path": "maxspect-ad600.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-bp-25p": {
     "path": "maxspect-bp-25p.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-bs-1k": {
     "path": "maxspect-bs-1k.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-cp10": {
     "path": "maxspect-cp10.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-e5-130": {
     "path": "maxspect-e5-130.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-g5": {
     "path": "maxspect-g5.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-mj-dc-10k": {
     "path": "1/maxspect-mj-dc-10k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-dc-12k": {
     "path": "1/maxspect-mj-dc-12k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-dc-6k": {
     "path": "1/maxspect-mj-dc-6k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-dc-8k": {
     "path": "1/maxspect-mj-dc-8k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-gf-2k": {
     "path": "1/maxspect-mj-gf-2k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-gf-4k": {
     "path": "1/maxspect-mj-gf-4k.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-l130-l130": {
     "path": "1/maxspect-mj-l130-l130.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-l130-l130r": {
     "path": "1/maxspect-mj-l130-l130r.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-l165": {
     "path": "maxspect-mj-l165.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-mj-sk-200-mod": {
     "path": "1/maxspect-mj-sk-200-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-sk-400-mod": {
     "path": "1/maxspect-mj-sk-400-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-mj-sk-800-mod": {
     "path": "1/maxspect-mj-sk-800-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-pct-g-v2-60-cm": {
     "path": "1/maxspect-pct-g-v2-60-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-pct-g-v2-83-cm": {
     "path": "1/maxspect-pct-g-v2-83-cm.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-pct-g50": {
     "path": "1/maxspect-pct-g50.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-pct-gg": {
     "path": "1/maxspect-pct-gg.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-tz": {
     "path": "maxspect-tz.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "maxspect-xf330-dve-pumpe-i-kontroler": {
     "path": "1/maxspect-xf330-dve-pumpe-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-xf330-pumpa-i-kontroler": {
     "path": "1/maxspect-xf330-pumpa-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-xf330-samo-pumpa": {
     "path": "1/maxspect-xf330-samo-pumpa.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-xf350-dve-pumpe-i-kontroler": {
     "path": "1/maxspect-xf350-dve-pumpe-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-xf350-pumpa-i-kontroler": {
     "path": "1/maxspect-xf350-pumpa-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "maxspect-xf350-samo-pumpa": {
     "path": "1/maxspect-xf350-samo-pumpa.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "metalic-orange-hammer": {
     "path": "1/metalic-orange-hammer.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "metallic-green-4-cm": {
     "path": "1/metallic-green-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "metallic-green-kolonija": {
     "path": "1/metallic-green-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "mint-branching-hammer-1-glava": {
     "path": "1/mint-branching-hammer-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "mint-branching-hammer-kolonija": {
     "path": "1/mint-branching-hammer-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "neon-green-mille": {
     "path": "1/neon-green-mille.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "neon-green-torch-2-glave": {
     "path": "1/neon-green-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "neon-green-torch-3-glave": {
     "path": "1/neon-green-torch-3-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "neon-splatter": {
     "path": "1/neon-splatter.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "neptune-systems-trident-reagesi-2-meseca": {
     "path": "neptune-systems-trident-reagesi-2-meseca.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "neptune-systems-trident-reagesi-np2": {
     "path": "neptune-systems-trident-reagesi-np2.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "neptunian-cube": {
     "path": "1/neptunian-cube.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "neptunian-cube-m-pro-120-mod": {
     "path": "1/neptunian-cube-m-pro-120-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-m-pro-60-mod": {
     "path": "1/neptunian-cube-m-pro-60-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-m-pro-90-mod": {
     "path": "1/neptunian-cube-m-pro-90-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-m180": {
     "path": "1/neptunian-cube-m180.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-t45": {
     "path": "neptunian-cube-t45.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "neptunian-cube-w120": {
     "path": "1/neptunian-cube-w120.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-w60": {
     "path": "1/neptunian-cube-w60.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "neptunian-cube-w90": {
     "path": "1/neptunian-cube-w90.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "ny-knicks-indo-gold-torch-1-glava": {
     "path": "1/ny-knicks-indo-gold-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ny-knicks-indo-gold-torch-2-glave": {
     "path": "1/ny-knicks-indo-gold-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "octo-c2c-250-mod": {
     "path": "1/octo-c2c-250-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-c2c-300-mod": {
     "path": "1/octo-c2c-300-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-c2t-90": {
     "path": "octo-c2t-90.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "octo-classic-int-110-mod": {
     "path": "1/octo-classic-int-110-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-classic-int-150-mod": {
     "path": "1/octo-classic-int-150-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-classic-int-200-mod": {
     "path": "1/octo-classic-int-200-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-classic-ns-80": {
     "path": "octo-classic-ns-80.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "octo-op-controller": {
     "path": "octo-op-controller.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "octo-op-op2-pumpa-i-kontroler": {
     "path": "1/octo-op-op2-pumpa-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-op-op2-samo-pumpa": {
     "path": "1/octo-op-op2-samo-pumpa.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-op-op4-pumpa-i-kontroler": {
     "path": "1/octo-op-op4-pumpa-i-kontroler.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-op-op4-samo-pumpa": {
     "path": "1/octo-op-op4-samo-pumpa.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-regal-int-150-mod": {
     "path": "1/octo-regal-int-150-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-regal-int-200-mod": {
     "path": "1/octo-regal-int-200-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-regal-int-250-mod": {
     "path": "1/octo-regal-int-250-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-regal-int-300-mod": {
     "path": "1/octo-regal-int-300-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-varios-4-mod": {
     "path": "1/octo-varios-4-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-varios-6-mod": {
     "path": "1/octo-varios-6-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "octo-varios-8-mod": {
     "path": "1/octo-varios-8-mod.webp",
-    "sheet": "variable"
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
   },
   "orange-pumpkin-eye-4-cm": {
     "path": "1/orange-pumpkin-eye-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "orange-pumpkin-eye-kolonija": {
     "path": "1/orange-pumpkin-eye-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "orange-ricordea-florida": {
     "path": "1/orange-ricordea-florida.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "orange-tip-black-torch-1-glava": {
     "path": "1/orange-tip-black-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "orange-tip-black-torch-2-glave": {
     "path": "1/orange-tip-black-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "paradise": {
     "path": "1/paradise.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "peachy-orange-branching-frogspawn-1-glava": {
     "path": "1/peachy-orange-branching-frogspawn-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "peachy-orange-branching-frogspawn-kolonija": {
     "path": "1/peachy-orange-branching-frogspawn-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "pearl-bubble-coral-1-glava": {
     "path": "1/pearl-bubble-coral-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "pearl-bubble-coral-2-glave": {
     "path": "1/pearl-bubble-coral-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "pearl-bubble-coral-4-glave": {
     "path": "1/pearl-bubble-coral-4-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "purple-ice-4-cm": {
     "path": "1/purple-ice-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "purple-ice-kolonija": {
     "path": "1/purple-ice-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "purple-tip-hammer-1-glava": {
     "path": "1/purple-tip-hammer-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "purple-tip-hammer-kolonija": {
     "path": "1/purple-tip-hammer-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "rainbow-3-cm": {
     "path": "1/rainbow-3-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "rainbow-kolonija": {
     "path": "1/rainbow-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "rainbow-madness-acanthastrea": {
     "path": "1/rainbow-madness-acanthastrea.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "rainbow-passion": {
     "path": "1/rainbow-passion.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "rainbow-passion-2": {
     "path": "1/rainbow-passion-2.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "red-light-district-4-cm": {
     "path": "1/red-light-district-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "red-light-district-kolonija": {
     "path": "1/red-light-district-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "rr-tropic-thunder": {
     "path": "1/rr-tropic-thunder.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "salifert-ca-test": {
     "path": "salifert-ca-test.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "salifert-flatworm-exit": {
     "path": "salifert-flatworm-exit.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "salifert-kh-test": {
     "path": "salifert-kh-test.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "salifert-mg-test": {
     "path": "salifert-mg-test.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "salifert-no3-test": {
     "path": "salifert-no3-test.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "salifert-po4-test": {
     "path": "salifert-po4-test.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "solarfire-flare": {
     "path": "1/solarfire-flare.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "special-rainbow-hammer": {
     "path": "1/special-rainbow-hammer.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "starburst-nebula-acanthastrea": {
     "path": "1/starburst-nebula-acanthastrea.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "tan-branching-frogspawn-1-glava": {
     "path": "1/tan-branching-frogspawn-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "tan-branching-frogspawn-kolonija": {
     "path": "1/tan-branching-frogspawn-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "tricolor-brain-coral": {
     "path": "1/tricolor-brain-coral.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "trident": {
     "path": "1/trident.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "trident-np": {
     "path": "1/trident-np.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "trident-np-set-reagenasa-2-meseca-zaliha": {
     "path": "1/trident-np-set-reagenasa-2-meseca-zaliha.webp",
-    "sheet": "simple"
+    "sheet": "simple",
+    "sheets": [
+      "simple"
+    ]
   },
   "uc-joker": {
     "path": "1/uc-joker.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-green-4-cm": {
     "path": "1/ultra-green-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ultra-green-kolonija": {
     "path": "1/ultra-green-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ultra-green-maze-coral-4-cm": {
     "path": "1/ultra-green-maze-coral-4-cm.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ultra-green-maze-coral-kolonija": {
     "path": "1/ultra-green-maze-coral-kolonija.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "ultra-lime-light": {
     "path": "1/ultra-lime-light.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-mint-medallion": {
     "path": "1/ultra-mint-medallion.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-neon-green": {
     "path": "1/ultra-neon-green.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-neon-green-hammer": {
     "path": "1/ultra-neon-green-hammer.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-rainbow": {
     "path": "1/ultra-rainbow.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-red": {
     "path": "1/ultra-red.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultra-yellow-hammer": {
     "path": "1/ultra-yellow-hammer.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "ultraviolet-speckle": {
     "path": "1/ultraviolet-speckle.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "voodoo-river": {
     "path": "1/voodoo-river.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "yellow-gold-speckled": {
     "path": "1/yellow-gold-speckled.webp",
-    "sheet": "livestock_simple"
+    "sheet": "livestock_simple",
+    "sheets": [
+      "livestock_simple"
+    ]
   },
   "yellow-tip-dark-green-torch-1-glava": {
     "path": "1/yellow-tip-dark-green-torch-1-glava.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   },
   "yellow-tip-dark-green-torch-2-glave": {
     "path": "1/yellow-tip-dark-green-torch-2-glave.webp",
-    "sheet": "livestock_variable"
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
   }
 }

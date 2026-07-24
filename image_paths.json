@@ -3359,8 +3359,8 @@
       "livestock_simple"
     ]
   },
-  "berry-smoothie-4-cm": {
-    "path": "1/berry-smoothie-4-cm.webp",
+  "berry-smoothie-1-2-cm": {
+    "path": "1/berry-smoothie-1-2-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3408,8 +3408,8 @@
       "livestock_variable"
     ]
   },
-  "black-cherry-ice-3-cm": {
-    "path": "1/black-cherry-ice-3-cm.webp",
+  "black-cherry-ice-3-4-cm": {
+    "path": "1/black-cherry-ice-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3450,15 +3450,15 @@
       "variable"
     ]
   },
-  "bubblegum-frost-hammer-1-glava": {
-    "path": "1/bubblegum-frost-hammer-1-glava.webp",
+  "bubblegum-frost-hammer-1-glave": {
+    "path": "1/bubblegum-frost-hammer-1-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
     ]
   },
-  "bubblegum-frost-hammer-kolonija": {
-    "path": "1/bubblegum-frost-hammer-kolonija.webp",
+  "bubblegum-frost-hammer-2-glave": {
+    "path": "1/bubblegum-frost-hammer-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3471,13 +3471,6 @@
       "livestock_simple"
     ]
   },
-  "candy-cane-blue-1-glava": {
-    "path": "1/candy-cane-blue-1-glava.webp",
-    "sheet": "livestock_variable",
-    "sheets": [
-      "livestock_variable"
-    ]
-  },
   "candy-cane-blue-2-glave": {
     "path": "1/candy-cane-blue-2-glave.webp",
     "sheet": "livestock_variable",
@@ -3485,8 +3478,15 @@
       "livestock_variable"
     ]
   },
-  "candy-cane-blue-3-glave": {
-    "path": "1/candy-cane-blue-3-glave.webp",
+  "candy-cane-blue-4-glave": {
+    "path": "1/candy-cane-blue-4-glave.webp",
+    "sheet": "livestock_variable",
+    "sheets": [
+      "livestock_variable"
+    ]
+  },
+  "candy-cane-blue-6-glave": {
+    "path": "1/candy-cane-blue-6-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3499,8 +3499,8 @@
       "livestock_variable"
     ]
   },
-  "candy-cane-neon-green-3-glave": {
-    "path": "1/candy-cane-neon-green-3-glave.webp",
+  "candy-cane-neon-green-4-glave": {
+    "path": "1/candy-cane-neon-green-4-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3821,8 +3821,8 @@
       "livestock_variable"
     ]
   },
-  "gold-nugget-hologram-hammer-kolonija": {
-    "path": "1/gold-nugget-hologram-hammer-kolonija.webp",
+  "gold-nugget-hologram-hammer-2-glave": {
+    "path": "1/gold-nugget-hologram-hammer-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3849,8 +3849,8 @@
       "livestock_variable"
     ]
   },
-  "green-branching-frogspawn-kolonija": {
-    "path": "1/green-branching-frogspawn-kolonija.webp",
+  "green-branching-frogspawn-2-glave": {
+    "path": "1/green-branching-frogspawn-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3863,8 +3863,8 @@
       "livestock_simple"
     ]
   },
-  "green-heart-ultra-red-4-cm": {
-    "path": "1/green-heart-ultra-red-4-cm.webp",
+  "green-heart-ultra-red-3-4-cm": {
+    "path": "1/green-heart-ultra-red-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -3884,8 +3884,8 @@
       "livestock_variable"
     ]
   },
-  "green-splatter-hammer-kolonija": {
-    "path": "1/green-splatter-hammer-kolonija.webp",
+  "green-splatter-hammer-2-glave": {
+    "path": "1/green-splatter-hammer-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4094,8 +4094,8 @@
       "simple"
     ]
   },
-  "lavender-frost-4-cm": {
-    "path": "1/lavender-frost-4-cm.webp",
+  "lavender-frost-1-2-cm": {
+    "path": "1/lavender-frost-1-2-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4458,8 +4458,8 @@
       "livestock_simple"
     ]
   },
-  "metallic-green-4-cm": {
-    "path": "1/metallic-green-4-cm.webp",
+  "metallic-green-1-2-cm": {
+    "path": "1/metallic-green-1-2-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4738,8 +4738,8 @@
       "variable"
     ]
   },
-  "orange-pumpkin-eye-4-cm": {
-    "path": "1/orange-pumpkin-eye-4-cm.webp",
+  "orange-pumpkin-eye-3-4-cm": {
+    "path": "1/orange-pumpkin-eye-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4787,8 +4787,8 @@
       "livestock_variable"
     ]
   },
-  "peachy-orange-branching-frogspawn-kolonija": {
-    "path": "1/peachy-orange-branching-frogspawn-kolonija.webp",
+  "peachy-orange-branching-frogspawn-2-glave": {
+    "path": "1/peachy-orange-branching-frogspawn-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4808,15 +4808,15 @@
       "livestock_variable"
     ]
   },
-  "pearl-bubble-coral-4-glave": {
-    "path": "1/pearl-bubble-coral-4-glave.webp",
+  "pearl-bubble-coral-3-glave": {
+    "path": "1/pearl-bubble-coral-3-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
     ]
   },
-  "purple-ice-4-cm": {
-    "path": "1/purple-ice-4-cm.webp",
+  "purple-ice-3-4-cm": {
+    "path": "1/purple-ice-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4829,8 +4829,8 @@
       "livestock_variable"
     ]
   },
-  "purple-tip-hammer-1-glava": {
-    "path": "1/purple-tip-hammer-1-glava.webp",
+  "purple-tip-hammer-1-2-cm": {
+    "path": "1/purple-tip-hammer-1-2-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4843,8 +4843,8 @@
       "livestock_variable"
     ]
   },
-  "rainbow-3-cm": {
-    "path": "1/rainbow-3-cm.webp",
+  "rainbow-3-4-cm": {
+    "path": "1/rainbow-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4878,8 +4878,8 @@
       "livestock_simple"
     ]
   },
-  "red-light-district-4-cm": {
-    "path": "1/red-light-district-4-cm.webp",
+  "red-light-district-3-4-cm": {
+    "path": "1/red-light-district-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4969,8 +4969,8 @@
       "livestock_variable"
     ]
   },
-  "tan-branching-frogspawn-kolonija": {
-    "path": "1/tan-branching-frogspawn-kolonija.webp",
+  "tan-branching-frogspawn-2-glave": {
+    "path": "1/tan-branching-frogspawn-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4988,6 +4988,20 @@
     "sheet": "simple",
     "sheets": [
       "simple"
+    ]
+  },
+  "trident-2-meseca-zaliha": {
+    "path": "1/trident-2-meseca-zaliha.webp",
+    "sheet": "variable",
+    "sheets": [
+      "variable"
+    ]
+  },
+  "trident-6-meseci-zaliha": {
+    "path": "1/trident-6-meseci-zaliha.webp",
+    "sheet": "variable",
+    "sheets": [
+      "variable"
     ]
   },
   "trident-np": {

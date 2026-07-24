@@ -1728,20 +1728,6 @@
       "variable"
     ]
   },
-  "arka-arka-marine-gran-250-ml": {
-    "path": "1/arka-arka-marine-gran-250-ml.webp",
-    "sheet": "variable",
-    "sheets": [
-      "variable"
-    ]
-  },
-  "arka-arka-marine-gran-500-ml": {
-    "path": "1/arka-arka-marine-gran-500-ml.webp",
-    "sheet": "variable",
-    "sheets": [
-      "variable"
-    ]
-  },
   "arka-artemia": {
     "path": "1/arka-artemia.webp",
     "sheet": "simple",
@@ -2409,13 +2395,6 @@
   },
   "arka-myaqua1900": {
     "path": "1/arka-myaqua1900.webp",
-    "sheet": "simple",
-    "sheets": [
-      "simple"
-    ]
-  },
-  "arka-myaua1900": {
-    "path": "arka-myaua1900.webp",
     "sheet": "simple",
     "sheets": [
       "simple"
@@ -3368,20 +3347,6 @@
   },
   "berry-smoothie-kolonija": {
     "path": "1/berry-smoothie-kolonija.webp",
-    "sheet": "livestock_variable",
-    "sheets": [
-      "livestock_variable"
-    ]
-  },
-  "bi-colour-blood-moon-torch-1-glava": {
-    "path": "1/bi-colour-blood-moon-torch-1-glava.webp",
-    "sheet": "livestock_variable",
-    "sheets": [
-      "livestock_variable"
-    ]
-  },
-  "bi-colour-blood-moon-torch-2-glave": {
-    "path": "1/bi-colour-blood-moon-torch-2-glave.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -4479,13 +4444,6 @@
       "livestock_variable"
     ]
   },
-  "mint-branching-hammer-kolonija": {
-    "path": "1/mint-branching-hammer-kolonija.webp",
-    "sheet": "livestock_variable",
-    "sheets": [
-      "livestock_variable"
-    ]
-  },
   "neon-green-mille": {
     "path": "1/neon-green-mille.webp",
     "sheet": "livestock_simple",
@@ -4551,13 +4509,6 @@
   },
   "neptunian-cube-m-pro-90-mod": {
     "path": "1/neptunian-cube-m-pro-90-mod.webp",
-    "sheet": "variable",
-    "sheets": [
-      "variable"
-    ]
-  },
-  "neptunian-cube-m180": {
-    "path": "1/neptunian-cube-m180.webp",
     "sheet": "variable",
     "sheets": [
       "variable"
@@ -5025,8 +4976,8 @@
       "livestock_simple"
     ]
   },
-  "ultra-green-4-cm": {
-    "path": "1/ultra-green-4-cm.webp",
+  "ultra-green-3-4-cm": {
+    "path": "1/ultra-green-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
@@ -5039,8 +4990,8 @@
       "livestock_variable"
     ]
   },
-  "ultra-green-maze-coral-4-cm": {
-    "path": "1/ultra-green-maze-coral-4-cm.webp",
+  "ultra-green-maze-coral-3-4-cm": {
+    "path": "1/ultra-green-maze-coral-3-4-cm.webp",
     "sheet": "livestock_variable",
     "sheets": [
       "livestock_variable"
